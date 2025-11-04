@@ -434,7 +434,15 @@
                     body: JSON.stringify({query, model})
                 });
                 
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
                 const data = await response.json();
+                
+                if (data.error) {
+                    throw new Error(data.error);
+                }
                 
                 resultDiv.innerHTML = `
                     <div class="intent-badge">${data.intent.replace(/_/g, ' ')}</div>

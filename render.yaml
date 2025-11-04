@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: intent-classifier-pro
+    env: python
+    buildCommand: "pip install -r requirements.txt && python generate_dataset.py && python train_models.py"
+    startCommand: "gunicorn --bind 0.0.0.0:$PORT app:app"

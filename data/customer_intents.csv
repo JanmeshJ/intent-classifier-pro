@@ -1,0 +1,3501 @@
+text,intent
+I don't recognize this charge,account_billing
+How can I contact support?,general_inquiry
+What's the fastest shipping?,shipping_delivery
+Does the camera have a warranty?,product_inquiry
+Where do I ship returns?,returns_refunds
+I'm getting an error on my smartphone,technical_support
+What's the status of my order?,order_status
+My smartphone won't charge,technical_support
+My speaker won't charge,technical_support
+Do you have a mobile app?,general_inquiry
+Can I chat with someone?,general_inquiry
+Do you have camera in stock?,product_inquiry
+Do you have keyboard in stock?,product_inquiry
+Why was I charged this amount?,account_billing
+What's your phone number?,general_inquiry
+I was charged twice,account_billing
+How do I create an account?,general_inquiry
+Can I get a refund?,returns_refunds
+Can you check on my delivery?,order_status
+When was my package sent?,order_status
+My speaker won't charge,technical_support
+Can I get a refund?,returns_refunds
+What's the status of my order?,order_status
+Does the laptop have a warranty?,product_inquiry
+What's the price of the speaker?,product_inquiry
+I was charged twice,account_billing
+My camera won't connect,technical_support
+Why was I charged this amount?,account_billing
+Can I get a refund?,returns_refunds
+My camera won't charge,technical_support
+How can I contact support?,general_inquiry
+Is my speaker on the way?,order_status
+What are the specs of the smartphone?,product_inquiry
+I can't update my camera,technical_support
+Has my order been shipped?,order_status
+My tablet is running slow,technical_support
+I haven't received my order,order_status
+How long does shipping take?,shipping_delivery
+The screen is black on my smartphone,technical_support
+What colors does the headphones come in?,product_inquiry
+Do you have mouse in stock?,product_inquiry
+How can I contact support?,general_inquiry
+Where is your company?,general_inquiry
+The speaker makes strange noises,technical_support
+What are the shipping costs?,shipping_delivery
+How do I return my camera?,returns_refunds
+What's the price of the camera?,product_inquiry
+How can I contact support?,general_inquiry
+Tell me about the mouse features,product_inquiry
+I was charged twice,account_billing
+Can I pick up in store?,shipping_delivery
+Can I track my shipment?,order_status
+I need a receipt,account_billing
+My keyboard won't turn on,technical_support
+Do you have a physical store?,general_inquiry
+When will my camera arrive?,order_status
+I can't update my mouse,technical_support
+Do you have speaker in stock?,product_inquiry
+When will my laptop arrive?,order_status
+How do I update my credit card?,account_billing
+Do you have speaker in stock?,product_inquiry
+I was charged twice,account_billing
+Can I track my shipment?,order_status
+How do I cancel my subscription?,account_billing
+I can't update my keyboard,technical_support
+Can I pick up in store?,shipping_delivery
+What are your business hours?,general_inquiry
+My smartphone won't charge,technical_support
+I'm getting an error on my smartwatch,technical_support
+Can I get a refund?,returns_refunds
+Where do I ship returns?,returns_refunds
+How do I update my credit card?,account_billing
+How long do I have to return?,returns_refunds
+How do I return my mouse?,returns_refunds
+Can I get your newsletter?,general_inquiry
+What payment methods accepted?,general_inquiry
+The screen is black on my tablet,technical_support
+I want to return this monitor,returns_refunds
+I can't update my monitor,technical_support
+Do you ship internationally?,shipping_delivery
+Where is your company?,general_inquiry
+How do I return my tablet?,returns_refunds
+I need a receipt,account_billing
+Can I exchange my monitor?,returns_refunds
+I need a receipt,account_billing
+How much does the laptop cost?,product_inquiry
+What's the fastest shipping?,shipping_delivery
+Can you check on my delivery?,order_status
+How much does the monitor cost?,product_inquiry
+Can I update my payment method?,account_billing
+I need to send back my keyboard,returns_refunds
+Is the speaker waterproof?,product_inquiry
+I want to return this mouse,returns_refunds
+Is my headphones on the way?,order_status
+How do I return my tablet?,returns_refunds
+My smartwatch won't connect,technical_support
+Can I change my payment plan?,account_billing
+My mouse won't turn on,technical_support
+How long does shipping take?,shipping_delivery
+What are the shipping costs?,shipping_delivery
+Is my tablet on the way?,order_status
+Can I get your newsletter?,general_inquiry
+Do you have a physical store?,general_inquiry
+Where do I ship returns?,returns_refunds
+What are the shipping costs?,shipping_delivery
+What's the status of my order?,order_status
+Can I chat with someone?,general_inquiry
+I can't update my monitor,technical_support
+What are the shipping costs?,shipping_delivery
+Do you have tablet in stock?,product_inquiry
+Do you have a mobile app?,general_inquiry
+How can I contact support?,general_inquiry
+How long do I have to return?,returns_refunds
+Can you check on my delivery?,order_status
+Do you have a mobile app?,general_inquiry
+Can I exchange my smartphone?,returns_refunds
+What colors does the laptop come in?,product_inquiry
+I need to send back my smartwatch,returns_refunds
+How long does shipping take?,shipping_delivery
+How long does shipping take?,shipping_delivery
+Can I change my shipping address?,shipping_delivery
+Can I get a refund?,returns_refunds
+Do you offer express shipping?,shipping_delivery
+Where do I ship returns?,returns_refunds
+What colors does the laptop come in?,product_inquiry
+Can I get a refund?,returns_refunds
+How do I create an account?,general_inquiry
+Is my laptop on the way?,order_status
+Can I exchange my tablet?,returns_refunds
+Do you have speaker in stock?,product_inquiry
+How long does shipping take?,shipping_delivery
+How much does the laptop cost?,product_inquiry
+Where is my order?,order_status
+Can you check on my delivery?,order_status
+Why was I charged this amount?,account_billing
+Can I get an invoice?,account_billing
+I can't update my smartwatch,technical_support
+What's the status of my order?,order_status
+How long does shipping take?,shipping_delivery
+My monitor won't charge,technical_support
+What shipping methods available?,shipping_delivery
+Can I track my shipment?,order_status
+The monitor makes strange noises,technical_support
+What are your business hours?,general_inquiry
+Do you ship to Europe?,shipping_delivery
+What's the fastest shipping?,shipping_delivery
+What are your business hours?,general_inquiry
+How do I start a return?,returns_refunds
+I haven't received my order,order_status
+What's included with the keyboard?,product_inquiry
+The screen is black on my headphones,technical_support
+The screen is black on my mouse,technical_support
+I haven't received my order,order_status
+When was my package sent?,order_status
+How do I update my credit card?,account_billing
+Do you have a mobile app?,general_inquiry
+How do I update my credit card?,account_billing
+Can I chat with someone?,general_inquiry
+When was my package sent?,order_status
+When was my package sent?,order_status
+Can you check on my delivery?,order_status
+My mouse is running slow,technical_support
+What's your return policy?,returns_refunds
+What shipping methods available?,shipping_delivery
+How do I cancel my subscription?,account_billing
+What's your phone number?,general_inquiry
+What shipping methods available?,shipping_delivery
+What are the specs of the smartwatch?,product_inquiry
+What's the price of the keyboard?,product_inquiry
+Does the camera have a warranty?,product_inquiry
+Where is my order?,order_status
+Can I change my payment plan?,account_billing
+I need to send back my headphones,returns_refunds
+Can you check on my delivery?,order_status
+The bluetooth isn't working,technical_support
+How much does the camera cost?,product_inquiry
+How do I start a return?,returns_refunds
+How do I cancel my subscription?,account_billing
+I need to send back my tablet,returns_refunds
+The headphones keeps freezing,technical_support
+Do you ship internationally?,shipping_delivery
+How do I create an account?,general_inquiry
+Can I pick up in store?,shipping_delivery
+Do you offer free returns?,returns_refunds
+Where do I ship returns?,returns_refunds
+Can I change my shipping address?,shipping_delivery
+Do you offer free returns?,returns_refunds
+Can I chat with someone?,general_inquiry
+How do I create an account?,general_inquiry
+How long until delivery?,order_status
+Do you ship internationally?,shipping_delivery
+What's your phone number?,general_inquiry
+What colors does the smartwatch come in?,product_inquiry
+My smartphone won't connect,technical_support
+Where is my order?,order_status
+What's the status of my order?,order_status
+Is the smartphone waterproof?,product_inquiry
+What's your return policy?,returns_refunds
+Tell me about the keyboard features,product_inquiry
+What's the price of the smartphone?,product_inquiry
+How do I update my credit card?,account_billing
+I need to send back my mouse,returns_refunds
+How do I start a return?,returns_refunds
+I need a receipt,account_billing
+My keyboard won't turn on,technical_support
+What's the status of my order?,order_status
+How do I start a return?,returns_refunds
+The NFC isn't working,technical_support
+Can I pick up in store?,shipping_delivery
+I don't recognize this charge,account_billing
+How long until delivery?,order_status
+I was charged twice,account_billing
+Is there free shipping?,shipping_delivery
+How do I create an account?,general_inquiry
+When was my package sent?,order_status
+How do I start a return?,returns_refunds
+Can I update my payment method?,account_billing
+How do I change billing address?,account_billing
+Do you offer free returns?,returns_refunds
+Can I chat with someone?,general_inquiry
+Do you ship to Europe?,shipping_delivery
+Is the mouse waterproof?,product_inquiry
+Is the smartwatch waterproof?,product_inquiry
+Can I get your newsletter?,general_inquiry
+What payment methods accepted?,general_inquiry
+How much does the mouse cost?,product_inquiry
+I can't update my headphones,technical_support
+The bluetooth isn't working,technical_support
+I haven't received my order,order_status
+Does the smartphone have a warranty?,product_inquiry
+How do I cancel my subscription?,account_billing
+Where is your company?,general_inquiry
+Can I get your newsletter?,general_inquiry
+Where is your company?,general_inquiry
+The GPS isn't working,technical_support
+Can I pick up in store?,shipping_delivery
+My laptop won't charge,technical_support
+Do you have a mobile app?,general_inquiry
+Where do I ship returns?,returns_refunds
+How do I change billing address?,account_billing
+What's the fastest shipping?,shipping_delivery
+Do you offer free returns?,returns_refunds
+I haven't received my order,order_status
+How do I return my smartphone?,returns_refunds
+How long do I have to return?,returns_refunds
+Do you ship internationally?,shipping_delivery
+What are the specs of the keyboard?,product_inquiry
+How can I contact support?,general_inquiry
+Tell me about the smartphone features,product_inquiry
+Why was I charged this amount?,account_billing
+When was my package sent?,order_status
+What's the price of the tablet?,product_inquiry
+How much does the headphones cost?,product_inquiry
+What's your return policy?,returns_refunds
+How do I start a return?,returns_refunds
+How can I contact support?,general_inquiry
+I haven't received my order,order_status
+Where is my order?,order_status
+Can I change my payment plan?,account_billing
+I haven't received my order,order_status
+Is my monitor on the way?,order_status
+I need to send back my speaker,returns_refunds
+Does the tablet have a warranty?,product_inquiry
+What are the specs of the camera?,product_inquiry
+My laptop is running slow,technical_support
+I haven't received my order,order_status
+I need to send back my headphones,returns_refunds
+How do I cancel my subscription?,account_billing
+What's your return policy?,returns_refunds
+Has my order been shipped?,order_status
+What's your return policy?,returns_refunds
+I need a receipt,account_billing
+Can you check on my delivery?,order_status
+Do you offer free returns?,returns_refunds
+What colors does the laptop come in?,product_inquiry
+Does the tablet have a warranty?,product_inquiry
+How do I return my laptop?,returns_refunds
+Has my order been shipped?,order_status
+Is the headphones waterproof?,product_inquiry
+Can you check on my delivery?,order_status
+What shipping methods available?,shipping_delivery
+Can I change my payment plan?,account_billing
+What shipping methods available?,shipping_delivery
+What's your return policy?,returns_refunds
+What's the status of my order?,order_status
+What are your business hours?,general_inquiry
+Do you ship internationally?,shipping_delivery
+When will my camera arrive?,order_status
+Can I change my shipping address?,shipping_delivery
+Can I get a refund?,returns_refunds
+Do you have a mobile app?,general_inquiry
+Do you ship to Australia?,shipping_delivery
+What are your business hours?,general_inquiry
+Can I track my shipment?,order_status
+How do I change billing address?,account_billing
+How long does shipping take?,shipping_delivery
+What are the specs of the monitor?,product_inquiry
+My monitor won't charge,technical_support
+Can I update my payment method?,account_billing
+The screen is black on my mouse,technical_support
+I need to send back my monitor,returns_refunds
+Can I change my shipping address?,shipping_delivery
+What's the price of the headphones?,product_inquiry
+My tablet is running slow,technical_support
+When will my headphones arrive?,order_status
+My smartphone won't charge,technical_support
+My camera won't connect,technical_support
+When will my speaker arrive?,order_status
+Where do I ship returns?,returns_refunds
+The headphones makes strange noises,technical_support
+Can I get a refund?,returns_refunds
+My keyboard won't turn on,technical_support
+What's your phone number?,general_inquiry
+How do I return my headphones?,returns_refunds
+Do you ship internationally?,shipping_delivery
+How do I cancel my subscription?,account_billing
+Is there free shipping?,shipping_delivery
+Do you have a physical store?,general_inquiry
+Can you check on my delivery?,order_status
+How much does the camera cost?,product_inquiry
+What shipping methods available?,shipping_delivery
+Can I get a refund?,returns_refunds
+Does the monitor have a warranty?,product_inquiry
+Do you have a physical store?,general_inquiry
+What are your business hours?,general_inquiry
+Has my order been shipped?,order_status
+I haven't received my order,order_status
+Do you offer free returns?,returns_refunds
+What payment methods accepted?,general_inquiry
+What's the status of my order?,order_status
+How do I create an account?,general_inquiry
+What colors does the speaker come in?,product_inquiry
+What's the fastest shipping?,shipping_delivery
+Do you offer express shipping?,shipping_delivery
+My laptop won't connect,technical_support
+Can I pick up in store?,shipping_delivery
+Can I update my payment method?,account_billing
+Is the mouse available in red?,product_inquiry
+How do I create an account?,general_inquiry
+How do I return my headphones?,returns_refunds
+Has my order been shipped?,order_status
+Can I get a refund?,returns_refunds
+What payment methods accepted?,general_inquiry
+The camera makes strange noises,technical_support
+What's included with the speaker?,product_inquiry
+What payment methods accepted?,general_inquiry
+What's your return policy?,returns_refunds
+I haven't received my order,order_status
+What are the shipping costs?,shipping_delivery
+How long until delivery?,order_status
+Can I change my payment plan?,account_billing
+My smartwatch is running slow,technical_support
+How do I start a return?,returns_refunds
+Can you check on my delivery?,order_status
+I was charged twice,account_billing
+Has my order been shipped?,order_status
+What's the status of my order?,order_status
+When was my package sent?,order_status
+How long until delivery?,order_status
+How do I start a return?,returns_refunds
+Is the camera waterproof?,product_inquiry
+Is there free shipping?,shipping_delivery
+How do I start a return?,returns_refunds
+How do I start a return?,returns_refunds
+I was charged twice,account_billing
+How do I change billing address?,account_billing
+What are the specs of the smartwatch?,product_inquiry
+How do I change billing address?,account_billing
+Do you have a mobile app?,general_inquiry
+What colors does the laptop come in?,product_inquiry
+I'm getting an error on my mouse,technical_support
+What are your business hours?,general_inquiry
+Can I change my shipping address?,shipping_delivery
+Can you check on my delivery?,order_status
+When was my package sent?,order_status
+Do you have a physical store?,general_inquiry
+I haven't received my order,order_status
+What are your business hours?,general_inquiry
+Do you have camera in stock?,product_inquiry
+I need to send back my speaker,returns_refunds
+What are the shipping costs?,shipping_delivery
+I'm getting an error on my smartphone,technical_support
+Can I update my payment method?,account_billing
+Do you ship to Europe?,shipping_delivery
+When will my speaker arrive?,order_status
+Is the mouse available in gold?,product_inquiry
+Where do I ship returns?,returns_refunds
+Can I get a refund?,returns_refunds
+When will my smartphone arrive?,order_status
+Does the laptop have a warranty?,product_inquiry
+Where do I ship returns?,returns_refunds
+Can I track my shipment?,order_status
+Can I pick up in store?,shipping_delivery
+How do I create an account?,general_inquiry
+What's your phone number?,general_inquiry
+I haven't received my order,order_status
+Do you have a mobile app?,general_inquiry
+Can I pick up in store?,shipping_delivery
+How do I start a return?,returns_refunds
+I was charged twice,account_billing
+Is the keyboard waterproof?,product_inquiry
+How long does shipping take?,shipping_delivery
+What's the price of the monitor?,product_inquiry
+Can I update my payment method?,account_billing
+Do you have a physical store?,general_inquiry
+Can I change my payment plan?,account_billing
+I haven't received my order,order_status
+Can I track my shipment?,order_status
+Can I change my payment plan?,account_billing
+How long do I have to return?,returns_refunds
+Can I exchange my tablet?,returns_refunds
+How much does the keyboard cost?,product_inquiry
+What are the specs of the keyboard?,product_inquiry
+How do I start a return?,returns_refunds
+How long until delivery?,order_status
+How do I cancel my subscription?,account_billing
+I'm getting an error on my smartphone,technical_support
+The screen is black on my laptop,technical_support
+The smartphone makes strange noises,technical_support
+Where do I ship returns?,returns_refunds
+Does the smartwatch have a warranty?,product_inquiry
+What's the fastest shipping?,shipping_delivery
+How do I cancel my subscription?,account_billing
+Do you offer free returns?,returns_refunds
+My keyboard is running slow,technical_support
+Tell me about the keyboard features,product_inquiry
+How long until delivery?,order_status
+The GPS isn't working,technical_support
+Do you ship to California?,shipping_delivery
+I haven't received my order,order_status
+What's the fastest shipping?,shipping_delivery
+How do I update my credit card?,account_billing
+Is my speaker on the way?,order_status
+Has my order been shipped?,order_status
+I haven't received my order,order_status
+How do I change billing address?,account_billing
+Where is my order?,order_status
+Tell me about the mouse features,product_inquiry
+What's included with the keyboard?,product_inquiry
+Why was I charged this amount?,account_billing
+The keyboard makes strange noises,technical_support
+The 5G isn't working,technical_support
+How do I return my camera?,returns_refunds
+I need a receipt,account_billing
+How do I create an account?,general_inquiry
+What are the specs of the headphones?,product_inquiry
+Do you offer free returns?,returns_refunds
+How much does the headphones cost?,product_inquiry
+What's your phone number?,general_inquiry
+Do you have a physical store?,general_inquiry
+Can I exchange my smartwatch?,returns_refunds
+Can I change my payment plan?,account_billing
+When was my package sent?,order_status
+I need to send back my smartwatch,returns_refunds
+Has my order been shipped?,order_status
+Can I get a refund?,returns_refunds
+Do you have a physical store?,general_inquiry
+Tell me about the tablet features,product_inquiry
+Is the tablet waterproof?,product_inquiry
+The screen is black on my headphones,technical_support
+What colors does the laptop come in?,product_inquiry
+What are your business hours?,general_inquiry
+When will my keyboard arrive?,order_status
+Can I chat with someone?,general_inquiry
+Has my order been shipped?,order_status
+What are the shipping costs?,shipping_delivery
+What's your phone number?,general_inquiry
+Where do I ship returns?,returns_refunds
+Do you offer free returns?,returns_refunds
+Has my order been shipped?,order_status
+I don't recognize this charge,account_billing
+Do you offer free returns?,returns_refunds
+I'm getting an error on my smartwatch,technical_support
+Does the smartwatch have a warranty?,product_inquiry
+The screen is black on my tablet,technical_support
+What shipping methods available?,shipping_delivery
+What's the status of my order?,order_status
+Do you offer express shipping?,shipping_delivery
+How long does shipping take?,shipping_delivery
+Can I change my shipping address?,shipping_delivery
+Can I get your newsletter?,general_inquiry
+Can I pick up in store?,shipping_delivery
+When will my tablet arrive?,order_status
+I can't update my monitor,technical_support
+I need a receipt,account_billing
+Do you offer express shipping?,shipping_delivery
+What colors does the headphones come in?,product_inquiry
+I don't recognize this charge,account_billing
+Can I get your newsletter?,general_inquiry
+Can I get a refund?,returns_refunds
+Tell me about the speaker features,product_inquiry
+What's the price of the speaker?,product_inquiry
+Can I exchange my mouse?,returns_refunds
+How do I change billing address?,account_billing
+My tablet won't charge,technical_support
+I want to return this smartwatch,returns_refunds
+The tablet makes strange noises,technical_support
+How long until delivery?,order_status
+How do I cancel my subscription?,account_billing
+Is there free shipping?,shipping_delivery
+Do you have a physical store?,general_inquiry
+The screen is black on my tablet,technical_support
+What payment methods accepted?,general_inquiry
+Can I exchange my smartwatch?,returns_refunds
+Can I change my shipping address?,shipping_delivery
+How do I change billing address?,account_billing
+I don't recognize this charge,account_billing
+Do you have laptop in stock?,product_inquiry
+Where is your company?,general_inquiry
+Do you offer free returns?,returns_refunds
+My laptop won't charge,technical_support
+I want to return this smartwatch,returns_refunds
+What's your phone number?,general_inquiry
+What's your phone number?,general_inquiry
+When was my package sent?,order_status
+Tell me about the smartphone features,product_inquiry
+How do I return my monitor?,returns_refunds
+Do you have a mobile app?,general_inquiry
+What colors does the monitor come in?,product_inquiry
+Can I get an invoice?,account_billing
+My laptop is running slow,technical_support
+How long does shipping take?,shipping_delivery
+How do I update my credit card?,account_billing
+My mouse won't connect,technical_support
+What shipping methods available?,shipping_delivery
+When will my smartphone arrive?,order_status
+I'm getting an error on my tablet,technical_support
+Has my order been shipped?,order_status
+When was my package sent?,order_status
+Can I change my payment plan?,account_billing
+Can I pick up in store?,shipping_delivery
+Tell me about the smartphone features,product_inquiry
+What's included with the headphones?,product_inquiry
+How do I cancel my subscription?,account_billing
+Can I pick up in store?,shipping_delivery
+What payment methods accepted?,general_inquiry
+How long until delivery?,order_status
+How can I contact support?,general_inquiry
+How long does shipping take?,shipping_delivery
+Do you have speaker in stock?,product_inquiry
+What payment methods accepted?,general_inquiry
+How do I return my smartphone?,returns_refunds
+Where do I ship returns?,returns_refunds
+I need to send back my smartwatch,returns_refunds
+Where is my order?,order_status
+I haven't received my order,order_status
+Why was I charged this amount?,account_billing
+Is the tablet available in gold?,product_inquiry
+The smartphone makes strange noises,technical_support
+Is the laptop available in silver?,product_inquiry
+Can I pick up in store?,shipping_delivery
+I haven't received my order,order_status
+Can I exchange my speaker?,returns_refunds
+When will my monitor arrive?,order_status
+How long until delivery?,order_status
+How do I update my credit card?,account_billing
+How do I create an account?,general_inquiry
+When was my package sent?,order_status
+I was charged twice,account_billing
+What are your business hours?,general_inquiry
+When will my camera arrive?,order_status
+My keyboard won't connect,technical_support
+When will my mouse arrive?,order_status
+Can you check on my delivery?,order_status
+Can I chat with someone?,general_inquiry
+The monitor makes strange noises,technical_support
+Can I track my shipment?,order_status
+Can I exchange my speaker?,returns_refunds
+Where is your company?,general_inquiry
+I need a receipt,account_billing
+Can I update my payment method?,account_billing
+Is there free shipping?,shipping_delivery
+How long until delivery?,order_status
+Does the monitor have a warranty?,product_inquiry
+My monitor is running slow,technical_support
+When will my smartphone arrive?,order_status
+Where do I ship returns?,returns_refunds
+Does the laptop have a warranty?,product_inquiry
+Is there free shipping?,shipping_delivery
+How do I start a return?,returns_refunds
+Is my speaker on the way?,order_status
+How long until delivery?,order_status
+Can I change my payment plan?,account_billing
+I want to return this headphones,returns_refunds
+What are the shipping costs?,shipping_delivery
+My smartphone won't connect,technical_support
+What's your phone number?,general_inquiry
+How much does the smartwatch cost?,product_inquiry
+Where is your company?,general_inquiry
+I was charged twice,account_billing
+The headphones keeps freezing,technical_support
+Where is your company?,general_inquiry
+Can I get your newsletter?,general_inquiry
+Is my speaker on the way?,order_status
+Tell me about the camera features,product_inquiry
+What's the price of the keyboard?,product_inquiry
+I want to return this keyboard,returns_refunds
+Can I change my shipping address?,shipping_delivery
+I don't recognize this charge,account_billing
+Tell me about the tablet features,product_inquiry
+Is the monitor waterproof?,product_inquiry
+The NFC isn't working,technical_support
+Do you offer express shipping?,shipping_delivery
+The smartphone makes strange noises,technical_support
+Where do I ship returns?,returns_refunds
+How much does the headphones cost?,product_inquiry
+Where do I ship returns?,returns_refunds
+I was charged twice,account_billing
+Can you check on my delivery?,order_status
+I can't update my speaker,technical_support
+Why was I charged this amount?,account_billing
+Do you offer express shipping?,shipping_delivery
+Is the camera available in white?,product_inquiry
+What's included with the keyboard?,product_inquiry
+What's the price of the keyboard?,product_inquiry
+I was charged twice,account_billing
+Can I change my payment plan?,account_billing
+Can I pick up in store?,shipping_delivery
+My smartphone won't turn on,technical_support
+How much does the tablet cost?,product_inquiry
+Does the smartphone have a warranty?,product_inquiry
+The tablet keeps freezing,technical_support
+I need a receipt,account_billing
+How do I create an account?,general_inquiry
+Can I pick up in store?,shipping_delivery
+Can I change my payment plan?,account_billing
+Do you ship to California?,shipping_delivery
+How much does the tablet cost?,product_inquiry
+Do you have camera in stock?,product_inquiry
+Can I track my shipment?,order_status
+Can I change my shipping address?,shipping_delivery
+Tell me about the keyboard features,product_inquiry
+I haven't received my order,order_status
+How do I create an account?,general_inquiry
+How do I return my monitor?,returns_refunds
+Can I change my shipping address?,shipping_delivery
+Can you check on my delivery?,order_status
+Do you ship internationally?,shipping_delivery
+What's the fastest shipping?,shipping_delivery
+What are your business hours?,general_inquiry
+Where do I ship returns?,returns_refunds
+Where is your company?,general_inquiry
+How do I update my credit card?,account_billing
+Where is your company?,general_inquiry
+I'm getting an error on my laptop,technical_support
+Is the keyboard available in silver?,product_inquiry
+What's your return policy?,returns_refunds
+How do I change billing address?,account_billing
+The screen is black on my tablet,technical_support
+I need to send back my keyboard,returns_refunds
+Can I track my shipment?,order_status
+Can I get a refund?,returns_refunds
+Is the camera waterproof?,product_inquiry
+Can I get your newsletter?,general_inquiry
+Can I exchange my speaker?,returns_refunds
+What shipping methods available?,shipping_delivery
+I don't recognize this charge,account_billing
+Can I get your newsletter?,general_inquiry
+Do you offer express shipping?,shipping_delivery
+I'm getting an error on my smartphone,technical_support
+What payment methods accepted?,general_inquiry
+How much does the headphones cost?,product_inquiry
+How much does the tablet cost?,product_inquiry
+Is my camera on the way?,order_status
+Where is my order?,order_status
+Has my order been shipped?,order_status
+What shipping methods available?,shipping_delivery
+Do you have a mobile app?,general_inquiry
+I'm getting an error on my smartphone,technical_support
+Can you check on my delivery?,order_status
+Can I track my shipment?,order_status
+I'm getting an error on my keyboard,technical_support
+Can I chat with someone?,general_inquiry
+Can I pick up in store?,shipping_delivery
+How do I start a return?,returns_refunds
+How do I change billing address?,account_billing
+Is the camera waterproof?,product_inquiry
+I can't update my smartphone,technical_support
+The smartphone makes strange noises,technical_support
+What's the status of my order?,order_status
+How do I update my credit card?,account_billing
+Do you have speaker in stock?,product_inquiry
+Can I get an invoice?,account_billing
+Where do I ship returns?,returns_refunds
+What's your return policy?,returns_refunds
+What's included with the tablet?,product_inquiry
+Can you check on my delivery?,order_status
+How do I update my credit card?,account_billing
+Can you check on my delivery?,order_status
+Is the smartwatch waterproof?,product_inquiry
+Can I get a refund?,returns_refunds
+I can't update my tablet,technical_support
+What shipping methods available?,shipping_delivery
+Can I chat with someone?,general_inquiry
+My headphones won't connect,technical_support
+Can I change my shipping address?,shipping_delivery
+How do I return my headphones?,returns_refunds
+Do you offer free returns?,returns_refunds
+Is the camera available in silver?,product_inquiry
+What colors does the smartphone come in?,product_inquiry
+I need a receipt,account_billing
+How can I contact support?,general_inquiry
+Can I chat with someone?,general_inquiry
+Can I chat with someone?,general_inquiry
+Do you ship internationally?,shipping_delivery
+Do you offer express shipping?,shipping_delivery
+What's the status of my order?,order_status
+I haven't received my order,order_status
+How long until delivery?,order_status
+How do I update my credit card?,account_billing
+How long does shipping take?,shipping_delivery
+How do I change billing address?,account_billing
+I was charged twice,account_billing
+What shipping methods available?,shipping_delivery
+How do I cancel my subscription?,account_billing
+What's your phone number?,general_inquiry
+I want to return this keyboard,returns_refunds
+Where do I ship returns?,returns_refunds
+Do you have a physical store?,general_inquiry
+How much does the smartphone cost?,product_inquiry
+Do you have a physical store?,general_inquiry
+Is the smartwatch waterproof?,product_inquiry
+Can I get your newsletter?,general_inquiry
+Why was I charged this amount?,account_billing
+Can I change my payment plan?,account_billing
+I can't update my smartwatch,technical_support
+How do I return my keyboard?,returns_refunds
+Can I change my payment plan?,account_billing
+Can I get a refund?,returns_refunds
+How do I cancel my subscription?,account_billing
+I can't update my headphones,technical_support
+I need to send back my camera,returns_refunds
+What's the fastest shipping?,shipping_delivery
+Can I update my payment method?,account_billing
+What shipping methods available?,shipping_delivery
+What are the shipping costs?,shipping_delivery
+Why was I charged this amount?,account_billing
+What's your phone number?,general_inquiry
+My mouse won't turn on,technical_support
+How do I return my headphones?,returns_refunds
+What are the shipping costs?,shipping_delivery
+What shipping methods available?,shipping_delivery
+My smartwatch won't connect,technical_support
+My laptop won't turn on,technical_support
+Can I change my shipping address?,shipping_delivery
+Do you offer express shipping?,shipping_delivery
+Is there free shipping?,shipping_delivery
+What are the specs of the smartwatch?,product_inquiry
+I can't update my smartphone,technical_support
+My smartphone is running slow,technical_support
+What are the shipping costs?,shipping_delivery
+How much does the camera cost?,product_inquiry
+Can you check on my delivery?,order_status
+Does the mouse have a warranty?,product_inquiry
+How do I create an account?,general_inquiry
+Can I exchange my camera?,returns_refunds
+Can I exchange my smartwatch?,returns_refunds
+I don't recognize this charge,account_billing
+My speaker won't charge,technical_support
+How do I update my credit card?,account_billing
+Can you check on my delivery?,order_status
+I need to send back my keyboard,returns_refunds
+Can you check on my delivery?,order_status
+Has my order been shipped?,order_status
+Tell me about the headphones features,product_inquiry
+Can I track my shipment?,order_status
+I was charged twice,account_billing
+How long does shipping take?,shipping_delivery
+I can't update my mouse,technical_support
+Do you have a mobile app?,general_inquiry
+What payment methods accepted?,general_inquiry
+What's included with the monitor?,product_inquiry
+Where is your company?,general_inquiry
+Can I pick up in store?,shipping_delivery
+Is my laptop on the way?,order_status
+How do I cancel my subscription?,account_billing
+When was my package sent?,order_status
+When was my package sent?,order_status
+My laptop won't connect,technical_support
+Does the speaker have a warranty?,product_inquiry
+The wifi isn't working,technical_support
+Can I chat with someone?,general_inquiry
+I was charged twice,account_billing
+Is the speaker waterproof?,product_inquiry
+Can I chat with someone?,general_inquiry
+Can I pick up in store?,shipping_delivery
+My tablet won't turn on,technical_support
+How do I start a return?,returns_refunds
+My tablet won't connect,technical_support
+How do I update my credit card?,account_billing
+I need a receipt,account_billing
+What are the specs of the monitor?,product_inquiry
+I haven't received my order,order_status
+How do I cancel my subscription?,account_billing
+Why was I charged this amount?,account_billing
+I haven't received my order,order_status
+Can I update my payment method?,account_billing
+What are the shipping costs?,shipping_delivery
+I was charged twice,account_billing
+Can you check on my delivery?,order_status
+Do you ship internationally?,shipping_delivery
+Can I get your newsletter?,general_inquiry
+Can I change my shipping address?,shipping_delivery
+Do you have a physical store?,general_inquiry
+Can you check on my delivery?,order_status
+Can I change my shipping address?,shipping_delivery
+Can I chat with someone?,general_inquiry
+What's the status of my order?,order_status
+I need a receipt,account_billing
+How long do I have to return?,returns_refunds
+Do you offer free returns?,returns_refunds
+Where is your company?,general_inquiry
+The wifi isn't working,technical_support
+The GPS isn't working,technical_support
+What are the specs of the laptop?,product_inquiry
+I need to send back my camera,returns_refunds
+Is the speaker available in blue?,product_inquiry
+Can I get your newsletter?,general_inquiry
+How do I change billing address?,account_billing
+How can I contact support?,general_inquiry
+How do I cancel my subscription?,account_billing
+The GPS isn't working,technical_support
+What's the price of the speaker?,product_inquiry
+Is there free shipping?,shipping_delivery
+Can I exchange my tablet?,returns_refunds
+Can I chat with someone?,general_inquiry
+How do I change billing address?,account_billing
+Do you offer express shipping?,shipping_delivery
+Is my laptop on the way?,order_status
+How long does shipping take?,shipping_delivery
+How do I create an account?,general_inquiry
+What shipping methods available?,shipping_delivery
+What's included with the smartwatch?,product_inquiry
+What's the fastest shipping?,shipping_delivery
+Can I get an invoice?,account_billing
+I don't recognize this charge,account_billing
+My mouse won't charge,technical_support
+Can I update my payment method?,account_billing
+Do you have a mobile app?,general_inquiry
+Do you ship to California?,shipping_delivery
+Is the speaker available in silver?,product_inquiry
+What's the fastest shipping?,shipping_delivery
+Has my order been shipped?,order_status
+When will my keyboard arrive?,order_status
+What payment methods accepted?,general_inquiry
+My headphones is running slow,technical_support
+My mouse won't connect,technical_support
+I need to send back my mouse,returns_refunds
+How can I contact support?,general_inquiry
+What shipping methods available?,shipping_delivery
+Can I track my shipment?,order_status
+Can I get your newsletter?,general_inquiry
+Is the keyboard available in red?,product_inquiry
+Can I change my shipping address?,shipping_delivery
+What's your return policy?,returns_refunds
+I need a receipt,account_billing
+When was my package sent?,order_status
+Has my order been shipped?,order_status
+What are the specs of the smartphone?,product_inquiry
+What are the specs of the laptop?,product_inquiry
+How long until delivery?,order_status
+Can I chat with someone?,general_inquiry
+Where do I ship returns?,returns_refunds
+What's your phone number?,general_inquiry
+Where is my order?,order_status
+Do you ship to California?,shipping_delivery
+Do you have a mobile app?,general_inquiry
+How do I start a return?,returns_refunds
+Can I get an invoice?,account_billing
+The smartphone makes strange noises,technical_support
+Why was I charged this amount?,account_billing
+Can I get a refund?,returns_refunds
+What's the fastest shipping?,shipping_delivery
+My monitor won't turn on,technical_support
+Tell me about the smartphone features,product_inquiry
+I need to send back my laptop,returns_refunds
+Can I chat with someone?,general_inquiry
+How do I start a return?,returns_refunds
+My headphones won't connect,technical_support
+I haven't received my order,order_status
+Can I get an invoice?,account_billing
+What's the status of my order?,order_status
+How do I change billing address?,account_billing
+Can I track my shipment?,order_status
+Has my order been shipped?,order_status
+The headphones keeps freezing,technical_support
+How do I change billing address?,account_billing
+Can I exchange my keyboard?,returns_refunds
+Is the camera available in gold?,product_inquiry
+Tell me about the tablet features,product_inquiry
+Can I get a refund?,returns_refunds
+Can I update my payment method?,account_billing
+How do I cancel my subscription?,account_billing
+How long do I have to return?,returns_refunds
+Can I chat with someone?,general_inquiry
+Do you offer express shipping?,shipping_delivery
+Can I chat with someone?,general_inquiry
+Why was I charged this amount?,account_billing
+Why was I charged this amount?,account_billing
+What's the status of my order?,order_status
+What colors does the speaker come in?,product_inquiry
+What payment methods accepted?,general_inquiry
+The mouse keeps freezing,technical_support
+Where is my order?,order_status
+My camera won't charge,technical_support
+The camera makes strange noises,technical_support
+My keyboard won't turn on,technical_support
+Where is your company?,general_inquiry
+The screen is black on my camera,technical_support
+Can you check on my delivery?,order_status
+How do I change billing address?,account_billing
+I don't recognize this charge,account_billing
+How long does shipping take?,shipping_delivery
+How can I contact support?,general_inquiry
+Can I change my shipping address?,shipping_delivery
+Can I exchange my tablet?,returns_refunds
+Can I change my shipping address?,shipping_delivery
+Is the mouse waterproof?,product_inquiry
+The laptop keeps freezing,technical_support
+I don't recognize this charge,account_billing
+Do you ship internationally?,shipping_delivery
+What's the status of my order?,order_status
+Can you check on my delivery?,order_status
+Do you ship to Europe?,shipping_delivery
+How do I create an account?,general_inquiry
+Is my tablet on the way?,order_status
+I can't update my monitor,technical_support
+My keyboard won't charge,technical_support
+Can I get an invoice?,account_billing
+How do I cancel my subscription?,account_billing
+I don't recognize this charge,account_billing
+I want to return this laptop,returns_refunds
+Do you have a mobile app?,general_inquiry
+Do you have a mobile app?,general_inquiry
+I haven't received my order,order_status
+Can I get your newsletter?,general_inquiry
+Has my order been shipped?,order_status
+Has my order been shipped?,order_status
+What's your phone number?,general_inquiry
+What's the status of my order?,order_status
+Is there free shipping?,shipping_delivery
+Is the tablet available in silver?,product_inquiry
+What's the fastest shipping?,shipping_delivery
+What shipping methods available?,shipping_delivery
+I want to return this speaker,returns_refunds
+Can I change my shipping address?,shipping_delivery
+What's the status of my order?,order_status
+I want to return this smartphone,returns_refunds
+How can I contact support?,general_inquiry
+Do you ship internationally?,shipping_delivery
+Can you check on my delivery?,order_status
+My laptop won't charge,technical_support
+How do I start a return?,returns_refunds
+How do I return my smartphone?,returns_refunds
+How do I start a return?,returns_refunds
+What are your business hours?,general_inquiry
+Where is your company?,general_inquiry
+My headphones won't connect,technical_support
+How do I create an account?,general_inquiry
+I'm getting an error on my smartphone,technical_support
+Is the laptop waterproof?,product_inquiry
+Can I pick up in store?,shipping_delivery
+How can I contact support?,general_inquiry
+Do you have monitor in stock?,product_inquiry
+Is the headphones waterproof?,product_inquiry
+Do you ship to Europe?,shipping_delivery
+Do you have camera in stock?,product_inquiry
+I'm getting an error on my tablet,technical_support
+How can I contact support?,general_inquiry
+How long do I have to return?,returns_refunds
+The camera keeps freezing,technical_support
+I haven't received my order,order_status
+How do I update my credit card?,account_billing
+How can I contact support?,general_inquiry
+Is the tablet available in red?,product_inquiry
+The headphones keeps freezing,technical_support
+I need a receipt,account_billing
+Can you check on my delivery?,order_status
+Can I pick up in store?,shipping_delivery
+Can I update my payment method?,account_billing
+I need a receipt,account_billing
+Tell me about the speaker features,product_inquiry
+Is there free shipping?,shipping_delivery
+Can I change my shipping address?,shipping_delivery
+Do you ship to Australia?,shipping_delivery
+My tablet is running slow,technical_support
+Can I chat with someone?,general_inquiry
+What payment methods accepted?,general_inquiry
+What's the price of the monitor?,product_inquiry
+I don't recognize this charge,account_billing
+Do you ship to Australia?,shipping_delivery
+Can I update my payment method?,account_billing
+How much does the keyboard cost?,product_inquiry
+What's the price of the headphones?,product_inquiry
+What's the fastest shipping?,shipping_delivery
+Can you check on my delivery?,order_status
+My laptop won't turn on,technical_support
+Tell me about the camera features,product_inquiry
+How do I cancel my subscription?,account_billing
+Do you have speaker in stock?,product_inquiry
+Can I update my payment method?,account_billing
+What colors does the mouse come in?,product_inquiry
+My laptop won't connect,technical_support
+I haven't received my order,order_status
+What payment methods accepted?,general_inquiry
+How long do I have to return?,returns_refunds
+What payment methods accepted?,general_inquiry
+Can I pick up in store?,shipping_delivery
+Can I change my payment plan?,account_billing
+Do you offer express shipping?,shipping_delivery
+How can I contact support?,general_inquiry
+I can't update my headphones,technical_support
+When was my package sent?,order_status
+Do you have camera in stock?,product_inquiry
+My smartwatch won't connect,technical_support
+Can you check on my delivery?,order_status
+I want to return this smartphone,returns_refunds
+My monitor won't turn on,technical_support
+The speaker keeps freezing,technical_support
+My smartphone won't charge,technical_support
+What's your phone number?,general_inquiry
+Do you ship internationally?,shipping_delivery
+Where is your company?,general_inquiry
+I'm getting an error on my smartphone,technical_support
+The smartwatch makes strange noises,technical_support
+Does the keyboard have a warranty?,product_inquiry
+What are the shipping costs?,shipping_delivery
+My headphones won't turn on,technical_support
+Has my order been shipped?,order_status
+Where do I ship returns?,returns_refunds
+What's your phone number?,general_inquiry
+How long do I have to return?,returns_refunds
+What's included with the keyboard?,product_inquiry
+Can I get a refund?,returns_refunds
+How do I start a return?,returns_refunds
+Where is your company?,general_inquiry
+How do I start a return?,returns_refunds
+What's the status of my order?,order_status
+Has my order been shipped?,order_status
+Tell me about the smartwatch features,product_inquiry
+What payment methods accepted?,general_inquiry
+Why was I charged this amount?,account_billing
+Can you check on my delivery?,order_status
+I haven't received my order,order_status
+How can I contact support?,general_inquiry
+How can I contact support?,general_inquiry
+What's your return policy?,returns_refunds
+I need a receipt,account_billing
+My tablet is running slow,technical_support
+The wifi isn't working,technical_support
+I'm getting an error on my monitor,technical_support
+Has my order been shipped?,order_status
+The keyboard makes strange noises,technical_support
+How can I contact support?,general_inquiry
+When was my package sent?,order_status
+Do you ship internationally?,shipping_delivery
+The keyboard keeps freezing,technical_support
+How do I return my mouse?,returns_refunds
+What's included with the headphones?,product_inquiry
+Can I pick up in store?,shipping_delivery
+Where do I ship returns?,returns_refunds
+What shipping methods available?,shipping_delivery
+Do you ship to Canada?,shipping_delivery
+Where do I ship returns?,returns_refunds
+How can I contact support?,general_inquiry
+Has my order been shipped?,order_status
+How do I cancel my subscription?,account_billing
+Can I change my shipping address?,shipping_delivery
+What are the shipping costs?,shipping_delivery
+What's included with the headphones?,product_inquiry
+I was charged twice,account_billing
+When will my headphones arrive?,order_status
+Do you ship to Europe?,shipping_delivery
+The GPS isn't working,technical_support
+How do I create an account?,general_inquiry
+Can I get an invoice?,account_billing
+Tell me about the keyboard features,product_inquiry
+Can I update my payment method?,account_billing
+What's your return policy?,returns_refunds
+What are the shipping costs?,shipping_delivery
+When will my headphones arrive?,order_status
+Tell me about the monitor features,product_inquiry
+Can I change my payment plan?,account_billing
+Is the mouse available in silver?,product_inquiry
+I can't update my camera,technical_support
+When was my package sent?,order_status
+What are your business hours?,general_inquiry
+What colors does the mouse come in?,product_inquiry
+How do I create an account?,general_inquiry
+Can I change my shipping address?,shipping_delivery
+Is there free shipping?,shipping_delivery
+How can I contact support?,general_inquiry
+I haven't received my order,order_status
+When was my package sent?,order_status
+Do you have a mobile app?,general_inquiry
+Do you have camera in stock?,product_inquiry
+I need to send back my laptop,returns_refunds
+What's your phone number?,general_inquiry
+Where is my order?,order_status
+What's your phone number?,general_inquiry
+The smartphone makes strange noises,technical_support
+The tablet makes strange noises,technical_support
+Tell me about the keyboard features,product_inquiry
+Can I update my payment method?,account_billing
+Can I exchange my camera?,returns_refunds
+How do I cancel my subscription?,account_billing
+I need a receipt,account_billing
+Can I get an invoice?,account_billing
+The tablet keeps freezing,technical_support
+Do you ship to Canada?,shipping_delivery
+The tablet makes strange noises,technical_support
+How do I cancel my subscription?,account_billing
+The tablet makes strange noises,technical_support
+What's included with the speaker?,product_inquiry
+I was charged twice,account_billing
+How do I create an account?,general_inquiry
+When will my smartphone arrive?,order_status
+How do I return my tablet?,returns_refunds
+I want to return this tablet,returns_refunds
+What shipping methods available?,shipping_delivery
+Is my tablet on the way?,order_status
+How do I cancel my subscription?,account_billing
+How do I cancel my subscription?,account_billing
+My speaker won't turn on,technical_support
+What's the price of the monitor?,product_inquiry
+What's the price of the keyboard?,product_inquiry
+Can you check on my delivery?,order_status
+How do I return my speaker?,returns_refunds
+Do you have tablet in stock?,product_inquiry
+My laptop won't charge,technical_support
+What's the status of my order?,order_status
+Can I chat with someone?,general_inquiry
+How do I create an account?,general_inquiry
+I need a receipt,account_billing
+The screen is black on my headphones,technical_support
+What's the price of the smartphone?,product_inquiry
+Do you have a mobile app?,general_inquiry
+What's your phone number?,general_inquiry
+Can I change my shipping address?,shipping_delivery
+I need a receipt,account_billing
+Do you offer free returns?,returns_refunds
+I'm getting an error on my camera,technical_support
+I haven't received my order,order_status
+Can I track my shipment?,order_status
+How long until delivery?,order_status
+What's your return policy?,returns_refunds
+What's the fastest shipping?,shipping_delivery
+Can I track my shipment?,order_status
+How long does shipping take?,shipping_delivery
+What's the price of the smartphone?,product_inquiry
+My mouse won't charge,technical_support
+Is the smartwatch available in gold?,product_inquiry
+What's the fastest shipping?,shipping_delivery
+Does the speaker have a warranty?,product_inquiry
+Can I update my payment method?,account_billing
+The GPS isn't working,technical_support
+What are your business hours?,general_inquiry
+What's your phone number?,general_inquiry
+What are the shipping costs?,shipping_delivery
+Is the monitor available in red?,product_inquiry
+Does the speaker have a warranty?,product_inquiry
+How do I start a return?,returns_refunds
+Is the speaker waterproof?,product_inquiry
+How long does shipping take?,shipping_delivery
+Can I change my shipping address?,shipping_delivery
+Can I get a refund?,returns_refunds
+I need to send back my smartwatch,returns_refunds
+How long do I have to return?,returns_refunds
+Where is my order?,order_status
+Do you offer free returns?,returns_refunds
+Do you have a mobile app?,general_inquiry
+I want to return this headphones,returns_refunds
+My speaker is running slow,technical_support
+Why was I charged this amount?,account_billing
+Where is my order?,order_status
+My headphones is running slow,technical_support
+Where is your company?,general_inquiry
+The headphones makes strange noises,technical_support
+How long until delivery?,order_status
+Can I get an invoice?,account_billing
+What payment methods accepted?,general_inquiry
+My smartphone won't connect,technical_support
+I haven't received my order,order_status
+I can't update my laptop,technical_support
+I don't recognize this charge,account_billing
+The smartphone keeps freezing,technical_support
+Tell me about the smartphone features,product_inquiry
+The screen is black on my smartphone,technical_support
+Do you offer free returns?,returns_refunds
+What's your return policy?,returns_refunds
+What colors does the smartphone come in?,product_inquiry
+Can I track my shipment?,order_status
+I'm getting an error on my keyboard,technical_support
+My laptop won't connect,technical_support
+Do you have a mobile app?,general_inquiry
+How much does the speaker cost?,product_inquiry
+I want to return this laptop,returns_refunds
+What payment methods accepted?,general_inquiry
+Is the laptop available in silver?,product_inquiry
+Can I get an invoice?,account_billing
+Has my order been shipped?,order_status
+How do I return my monitor?,returns_refunds
+I can't update my headphones,technical_support
+Can I chat with someone?,general_inquiry
+How do I cancel my subscription?,account_billing
+Do you have speaker in stock?,product_inquiry
+What are the shipping costs?,shipping_delivery
+What's included with the headphones?,product_inquiry
+When will my smartwatch arrive?,order_status
+I need a receipt,account_billing
+Where is your company?,general_inquiry
+What's your phone number?,general_inquiry
+What shipping methods available?,shipping_delivery
+Can I exchange my laptop?,returns_refunds
+What's your return policy?,returns_refunds
+How long do I have to return?,returns_refunds
+How long does shipping take?,shipping_delivery
+Does the laptop have a warranty?,product_inquiry
+Where is your company?,general_inquiry
+The keyboard keeps freezing,technical_support
+Do you ship to Australia?,shipping_delivery
+Can I get an invoice?,account_billing
+Do you have speaker in stock?,product_inquiry
+The screen is black on my smartphone,technical_support
+Can I chat with someone?,general_inquiry
+Can I pick up in store?,shipping_delivery
+The tablet makes strange noises,technical_support
+The screen is black on my speaker,technical_support
+How long does shipping take?,shipping_delivery
+What's the fastest shipping?,shipping_delivery
+I need to send back my smartphone,returns_refunds
+Do you have smartphone in stock?,product_inquiry
+How do I create an account?,general_inquiry
+Can I get a refund?,returns_refunds
+Can you check on my delivery?,order_status
+Do you have a physical store?,general_inquiry
+I need a receipt,account_billing
+I need to send back my keyboard,returns_refunds
+Is my mouse on the way?,order_status
+How do I change billing address?,account_billing
+Has my order been shipped?,order_status
+What shipping methods available?,shipping_delivery
+How do I create an account?,general_inquiry
+What are the shipping costs?,shipping_delivery
+What are the shipping costs?,shipping_delivery
+How do I cancel my subscription?,account_billing
+I want to return this monitor,returns_refunds
+The smartphone makes strange noises,technical_support
+Where is your company?,general_inquiry
+What are the shipping costs?,shipping_delivery
+Can I track my shipment?,order_status
+Can I change my shipping address?,shipping_delivery
+I haven't received my order,order_status
+Where is your company?,general_inquiry
+How do I change billing address?,account_billing
+What are your business hours?,general_inquiry
+Where do I ship returns?,returns_refunds
+Can I get a refund?,returns_refunds
+The screen is black on my smartphone,technical_support
+How do I return my laptop?,returns_refunds
+Where do I ship returns?,returns_refunds
+Can I pick up in store?,shipping_delivery
+Can I change my payment plan?,account_billing
+How do I return my mouse?,returns_refunds
+Can I get a refund?,returns_refunds
+Can I track my shipment?,order_status
+I can't update my mouse,technical_support
+My smartwatch is running slow,technical_support
+What's the fastest shipping?,shipping_delivery
+What are your business hours?,general_inquiry
+Can I update my payment method?,account_billing
+I need to send back my keyboard,returns_refunds
+I'm getting an error on my headphones,technical_support
+What's your return policy?,returns_refunds
+Can I pick up in store?,shipping_delivery
+How long do I have to return?,returns_refunds
+What colors does the laptop come in?,product_inquiry
+Is my headphones on the way?,order_status
+What colors does the mouse come in?,product_inquiry
+Can I track my shipment?,order_status
+What's included with the camera?,product_inquiry
+Is the keyboard waterproof?,product_inquiry
+Can I get your newsletter?,general_inquiry
+I want to return this smartphone,returns_refunds
+Is the keyboard waterproof?,product_inquiry
+Is there free shipping?,shipping_delivery
+When was my package sent?,order_status
+How do I change billing address?,account_billing
+What's your phone number?,general_inquiry
+I need a receipt,account_billing
+I was charged twice,account_billing
+The GPS isn't working,technical_support
+Can I get your newsletter?,general_inquiry
+Where is my order?,order_status
+Where is my order?,order_status
+The wifi isn't working,technical_support
+Is there free shipping?,shipping_delivery
+Do you have a mobile app?,general_inquiry
+What's the status of my order?,order_status
+How do I change billing address?,account_billing
+Where is your company?,general_inquiry
+What's the fastest shipping?,shipping_delivery
+I can't update my smartphone,technical_support
+Can I track my shipment?,order_status
+I need to send back my smartwatch,returns_refunds
+Is my mouse on the way?,order_status
+Has my order been shipped?,order_status
+How do I return my keyboard?,returns_refunds
+Is the smartphone available in gold?,product_inquiry
+What are the specs of the tablet?,product_inquiry
+Tell me about the keyboard features,product_inquiry
+Has my order been shipped?,order_status
+Do you have smartwatch in stock?,product_inquiry
+Can I chat with someone?,general_inquiry
+I need to send back my keyboard,returns_refunds
+My monitor won't turn on,technical_support
+What are the shipping costs?,shipping_delivery
+How do I update my credit card?,account_billing
+What's your return policy?,returns_refunds
+Do you have smartphone in stock?,product_inquiry
+I haven't received my order,order_status
+What payment methods accepted?,general_inquiry
+How do I change billing address?,account_billing
+Can you check on my delivery?,order_status
+My smartphone won't charge,technical_support
+Do you offer free returns?,returns_refunds
+I need a receipt,account_billing
+I need a receipt,account_billing
+Can I change my shipping address?,shipping_delivery
+The screen is black on my speaker,technical_support
+Can I exchange my monitor?,returns_refunds
+What colors does the mouse come in?,product_inquiry
+What's your return policy?,returns_refunds
+Can I get an invoice?,account_billing
+I'm getting an error on my tablet,technical_support
+Can I get an invoice?,account_billing
+Can I exchange my laptop?,returns_refunds
+My laptop won't charge,technical_support
+Is my speaker on the way?,order_status
+The bluetooth isn't working,technical_support
+When will my laptop arrive?,order_status
+Where is my order?,order_status
+Has my order been shipped?,order_status
+My smartwatch is running slow,technical_support
+How can I contact support?,general_inquiry
+What are the specs of the speaker?,product_inquiry
+How long does shipping take?,shipping_delivery
+Can you check on my delivery?,order_status
+Do you have a mobile app?,general_inquiry
+Can I get your newsletter?,general_inquiry
+My keyboard won't turn on,technical_support
+I was charged twice,account_billing
+Can I get a refund?,returns_refunds
+What colors does the keyboard come in?,product_inquiry
+Can I chat with someone?,general_inquiry
+Can I change my shipping address?,shipping_delivery
+What's the price of the camera?,product_inquiry
+I haven't received my order,order_status
+The GPS isn't working,technical_support
+Is the headphones waterproof?,product_inquiry
+How long do I have to return?,returns_refunds
+How long until delivery?,order_status
+Can I update my payment method?,account_billing
+Can I chat with someone?,general_inquiry
+Why was I charged this amount?,account_billing
+What are the specs of the keyboard?,product_inquiry
+What's your return policy?,returns_refunds
+Does the speaker have a warranty?,product_inquiry
+What's your phone number?,general_inquiry
+How do I cancel my subscription?,account_billing
+What's your phone number?,general_inquiry
+I haven't received my order,order_status
+How do I return my laptop?,returns_refunds
+I don't recognize this charge,account_billing
+What are your business hours?,general_inquiry
+How do I create an account?,general_inquiry
+How do I return my monitor?,returns_refunds
+Do you have keyboard in stock?,product_inquiry
+My keyboard won't connect,technical_support
+How do I change billing address?,account_billing
+What shipping methods available?,shipping_delivery
+Can I pick up in store?,shipping_delivery
+Where is my order?,order_status
+My monitor won't turn on,technical_support
+The GPS isn't working,technical_support
+How do I create an account?,general_inquiry
+Can I get a refund?,returns_refunds
+Where is my order?,order_status
+Can I change my payment plan?,account_billing
+What shipping methods available?,shipping_delivery
+Can I exchange my keyboard?,returns_refunds
+Can I pick up in store?,shipping_delivery
+How do I start a return?,returns_refunds
+Do you have a mobile app?,general_inquiry
+The speaker makes strange noises,technical_support
+I was charged twice,account_billing
+My keyboard won't connect,technical_support
+What payment methods accepted?,general_inquiry
+What are the specs of the camera?,product_inquiry
+I don't recognize this charge,account_billing
+Does the mouse have a warranty?,product_inquiry
+What are the shipping costs?,shipping_delivery
+How long do I have to return?,returns_refunds
+Do you have a physical store?,general_inquiry
+Can I track my shipment?,order_status
+How long until delivery?,order_status
+I'm getting an error on my keyboard,technical_support
+Can I pick up in store?,shipping_delivery
+Can I track my shipment?,order_status
+What shipping methods available?,shipping_delivery
+Tell me about the smartwatch features,product_inquiry
+How long does shipping take?,shipping_delivery
+The screen is black on my smartwatch,technical_support
+What's your phone number?,general_inquiry
+Do you have a mobile app?,general_inquiry
+What payment methods accepted?,general_inquiry
+Where is my order?,order_status
+Is there free shipping?,shipping_delivery
+What are the specs of the tablet?,product_inquiry
+How do I create an account?,general_inquiry
+How do I update my credit card?,account_billing
+How do I create an account?,general_inquiry
+My monitor is running slow,technical_support
+Can I change my shipping address?,shipping_delivery
+I don't recognize this charge,account_billing
+Can I update my payment method?,account_billing
+Do you ship internationally?,shipping_delivery
+Does the smartwatch have a warranty?,product_inquiry
+How do I start a return?,returns_refunds
+What are the shipping costs?,shipping_delivery
+Can you check on my delivery?,order_status
+Is there free shipping?,shipping_delivery
+Can I get your newsletter?,general_inquiry
+Do you have a mobile app?,general_inquiry
+What shipping methods available?,shipping_delivery
+My camera won't turn on,technical_support
+Can I track my shipment?,order_status
+How long does shipping take?,shipping_delivery
+Why was I charged this amount?,account_billing
+How much does the mouse cost?,product_inquiry
+How do I change billing address?,account_billing
+What's the status of my order?,order_status
+How long does shipping take?,shipping_delivery
+What are the shipping costs?,shipping_delivery
+When was my package sent?,order_status
+Can I get an invoice?,account_billing
+How long do I have to return?,returns_refunds
+I can't update my camera,technical_support
+Has my order been shipped?,order_status
+What are the specs of the laptop?,product_inquiry
+What's the status of my order?,order_status
+Is the monitor waterproof?,product_inquiry
+What colors does the keyboard come in?,product_inquiry
+Can I pick up in store?,shipping_delivery
+How long does shipping take?,shipping_delivery
+Can I update my payment method?,account_billing
+How do I return my smartwatch?,returns_refunds
+Can I change my shipping address?,shipping_delivery
+How can I contact support?,general_inquiry
+Why was I charged this amount?,account_billing
+Has my order been shipped?,order_status
+What payment methods accepted?,general_inquiry
+What shipping methods available?,shipping_delivery
+What shipping methods available?,shipping_delivery
+My mouse won't connect,technical_support
+My speaker is running slow,technical_support
+I was charged twice,account_billing
+The screen is black on my headphones,technical_support
+How do I return my camera?,returns_refunds
+Can I change my payment plan?,account_billing
+What payment methods accepted?,general_inquiry
+I haven't received my order,order_status
+I need a receipt,account_billing
+What payment methods accepted?,general_inquiry
+What's the status of my order?,order_status
+What colors does the monitor come in?,product_inquiry
+How can I contact support?,general_inquiry
+Can I change my payment plan?,account_billing
+I was charged twice,account_billing
+Can I get your newsletter?,general_inquiry
+How long do I have to return?,returns_refunds
+What are your business hours?,general_inquiry
+How do I cancel my subscription?,account_billing
+How can I contact support?,general_inquiry
+Does the camera have a warranty?,product_inquiry
+I haven't received my order,order_status
+Do you have mouse in stock?,product_inquiry
+Can I get a refund?,returns_refunds
+What's the status of my order?,order_status
+Can I pick up in store?,shipping_delivery
+How do I cancel my subscription?,account_billing
+Can I get an invoice?,account_billing
+Can I get your newsletter?,general_inquiry
+I was charged twice,account_billing
+How long does shipping take?,shipping_delivery
+How do I start a return?,returns_refunds
+Can I get a refund?,returns_refunds
+Can I exchange my tablet?,returns_refunds
+Can I get a refund?,returns_refunds
+Do you ship internationally?,shipping_delivery
+How do I cancel my subscription?,account_billing
+What's your phone number?,general_inquiry
+My keyboard won't charge,technical_support
+What shipping methods available?,shipping_delivery
+What colors does the monitor come in?,product_inquiry
+Can I get an invoice?,account_billing
+How do I update my credit card?,account_billing
+Can I track my shipment?,order_status
+How do I create an account?,general_inquiry
+How can I contact support?,general_inquiry
+Can I exchange my tablet?,returns_refunds
+Why was I charged this amount?,account_billing
+Why was I charged this amount?,account_billing
+The screen is black on my smartphone,technical_support
+I can't update my laptop,technical_support
+What's your phone number?,general_inquiry
+How do I return my headphones?,returns_refunds
+Is there free shipping?,shipping_delivery
+Can I change my shipping address?,shipping_delivery
+My headphones is running slow,technical_support
+The screen is black on my keyboard,technical_support
+I'm getting an error on my camera,technical_support
+Is the keyboard waterproof?,product_inquiry
+What shipping methods available?,shipping_delivery
+Where is my order?,order_status
+How do I update my credit card?,account_billing
+How long does shipping take?,shipping_delivery
+Do you offer express shipping?,shipping_delivery
+My tablet won't connect,technical_support
+Is there free shipping?,shipping_delivery
+Is there free shipping?,shipping_delivery
+What shipping methods available?,shipping_delivery
+I was charged twice,account_billing
+I was charged twice,account_billing
+When will my smartphone arrive?,order_status
+I don't recognize this charge,account_billing
+What's the fastest shipping?,shipping_delivery
+I was charged twice,account_billing
+What shipping methods available?,shipping_delivery
+Can I update my payment method?,account_billing
+My smartwatch won't connect,technical_support
+Can I exchange my tablet?,returns_refunds
+How do I start a return?,returns_refunds
+What are the shipping costs?,shipping_delivery
+Is there free shipping?,shipping_delivery
+What payment methods accepted?,general_inquiry
+Do you offer express shipping?,shipping_delivery
+Where do I ship returns?,returns_refunds
+How do I update my credit card?,account_billing
+What's included with the headphones?,product_inquiry
+I need to send back my tablet,returns_refunds
+My keyboard won't turn on,technical_support
+My tablet won't charge,technical_support
+My smartphone won't connect,technical_support
+How much does the smartphone cost?,product_inquiry
+How long do I have to return?,returns_refunds
+Can I track my shipment?,order_status
+I'm getting an error on my tablet,technical_support
+Can I exchange my laptop?,returns_refunds
+I was charged twice,account_billing
+How do I cancel my subscription?,account_billing
+How do I start a return?,returns_refunds
+The wifi isn't working,technical_support
+Do you ship internationally?,shipping_delivery
+How do I update my credit card?,account_billing
+What payment methods accepted?,general_inquiry
+The GPS isn't working,technical_support
+Where is my order?,order_status
+How do I change billing address?,account_billing
+The screen is black on my headphones,technical_support
+How do I create an account?,general_inquiry
+How long do I have to return?,returns_refunds
+Do you ship to Australia?,shipping_delivery
+How long does shipping take?,shipping_delivery
+What's the price of the speaker?,product_inquiry
+What's your phone number?,general_inquiry
+Do you ship to Australia?,shipping_delivery
+My tablet is running slow,technical_support
+How do I update my credit card?,account_billing
+Can I update my payment method?,account_billing
+I need to send back my headphones,returns_refunds
+How long does shipping take?,shipping_delivery
+I can't update my laptop,technical_support
+Can I exchange my laptop?,returns_refunds
+What's your phone number?,general_inquiry
+Do you have a physical store?,general_inquiry
+Can I change my payment plan?,account_billing
+Do you offer free returns?,returns_refunds
+Does the smartphone have a warranty?,product_inquiry
+I can't update my smartphone,technical_support
+How long does shipping take?,shipping_delivery
+I can't update my smartphone,technical_support
+Can I chat with someone?,general_inquiry
+I need to send back my laptop,returns_refunds
+How do I change billing address?,account_billing
+Do you ship to Europe?,shipping_delivery
+What are the specs of the mouse?,product_inquiry
+How can I contact support?,general_inquiry
+When was my package sent?,order_status
+Do you have a mobile app?,general_inquiry
+What's the status of my order?,order_status
+Can I change my payment plan?,account_billing
+How do I update my credit card?,account_billing
+What colors does the speaker come in?,product_inquiry
+Is the speaker available in silver?,product_inquiry
+Can I get your newsletter?,general_inquiry
+What are the specs of the laptop?,product_inquiry
+Is my laptop on the way?,order_status
+I need to send back my mouse,returns_refunds
+Do you offer express shipping?,shipping_delivery
+Do you ship internationally?,shipping_delivery
+Is there free shipping?,shipping_delivery
+Tell me about the tablet features,product_inquiry
+How do I return my camera?,returns_refunds
+Do you ship to Australia?,shipping_delivery
+Can you check on my delivery?,order_status
+What's the price of the tablet?,product_inquiry
+What are the shipping costs?,shipping_delivery
+I haven't received my order,order_status
+What are the shipping costs?,shipping_delivery
+Do you offer express shipping?,shipping_delivery
+I need a receipt,account_billing
+My monitor won't charge,technical_support
+How do I cancel my subscription?,account_billing
+Has my order been shipped?,order_status
+I'm getting an error on my tablet,technical_support
+Do you ship internationally?,shipping_delivery
+What's your return policy?,returns_refunds
+Can you check on my delivery?,order_status
+Can I change my shipping address?,shipping_delivery
+I'm getting an error on my smartwatch,technical_support
+The smartphone makes strange noises,technical_support
+Does the laptop have a warranty?,product_inquiry
+Do you have a physical store?,general_inquiry
+How do I change billing address?,account_billing
+How do I change billing address?,account_billing
+I haven't received my order,order_status
+I haven't received my order,order_status
+Can I get an invoice?,account_billing
+My smartphone is running slow,technical_support
+What's the price of the camera?,product_inquiry
+Do you offer express shipping?,shipping_delivery
+How long does shipping take?,shipping_delivery
+Do you have a physical store?,general_inquiry
+What's included with the monitor?,product_inquiry
+My speaker won't charge,technical_support
+Can I get an invoice?,account_billing
+My laptop is running slow,technical_support
+What shipping methods available?,shipping_delivery
+Where do I ship returns?,returns_refunds
+Can I pick up in store?,shipping_delivery
+How do I cancel my subscription?,account_billing
+Tell me about the smartphone features,product_inquiry
+What payment methods accepted?,general_inquiry
+Can I get an invoice?,account_billing
+Where is your company?,general_inquiry
+I don't recognize this charge,account_billing
+How do I create an account?,general_inquiry
+What colors does the smartwatch come in?,product_inquiry
+When will my monitor arrive?,order_status
+What's the price of the smartphone?,product_inquiry
+Can I update my payment method?,account_billing
+What are the specs of the mouse?,product_inquiry
+My smartwatch won't connect,technical_support
+What's the status of my order?,order_status
+My smartphone won't charge,technical_support
+Why was I charged this amount?,account_billing
+When will my keyboard arrive?,order_status
+Can I get a refund?,returns_refunds
+My headphones is running slow,technical_support
+Can I change my shipping address?,shipping_delivery
+I want to return this laptop,returns_refunds
+Can I get a refund?,returns_refunds
+How do I change billing address?,account_billing
+What are the specs of the keyboard?,product_inquiry
+When was my package sent?,order_status
+What are the shipping costs?,shipping_delivery
+What's your return policy?,returns_refunds
+Can I change my shipping address?,shipping_delivery
+Where do I ship returns?,returns_refunds
+Do you offer express shipping?,shipping_delivery
+What's the price of the smartwatch?,product_inquiry
+Tell me about the laptop features,product_inquiry
+I don't recognize this charge,account_billing
+Has my order been shipped?,order_status
+Tell me about the headphones features,product_inquiry
+I need a receipt,account_billing
+Where do I ship returns?,returns_refunds
+I can't update my smartphone,technical_support
+I can't update my monitor,technical_support
+Can I change my shipping address?,shipping_delivery
+I was charged twice,account_billing
+How do I change billing address?,account_billing
+Where do I ship returns?,returns_refunds
+The GPS isn't working,technical_support
+I don't recognize this charge,account_billing
+What's included with the camera?,product_inquiry
+I need a receipt,account_billing
+What payment methods accepted?,general_inquiry
+The bluetooth isn't working,technical_support
+Do you ship to California?,shipping_delivery
+When was my package sent?,order_status
+Do you have a physical store?,general_inquiry
+I'm getting an error on my laptop,technical_support
+Has my order been shipped?,order_status
+What shipping methods available?,shipping_delivery
+I want to return this smartphone,returns_refunds
+Has my order been shipped?,order_status
+My tablet won't charge,technical_support
+Can I get a refund?,returns_refunds
+When was my package sent?,order_status
+Where is my order?,order_status
+Do you offer express shipping?,shipping_delivery
+Where do I ship returns?,returns_refunds
+What payment methods accepted?,general_inquiry
+Do you offer free returns?,returns_refunds
+Can I exchange my smartphone?,returns_refunds
+What are the shipping costs?,shipping_delivery
+What shipping methods available?,shipping_delivery
+Has my order been shipped?,order_status
+What are the shipping costs?,shipping_delivery
+Can I change my shipping address?,shipping_delivery
+Tell me about the smartphone features,product_inquiry
+How do I change billing address?,account_billing
+Is there free shipping?,shipping_delivery
+I was charged twice,account_billing
+The headphones keeps freezing,technical_support
+Can I chat with someone?,general_inquiry
+My camera won't connect,technical_support
+My smartwatch won't charge,technical_support
+Can you check on my delivery?,order_status
+Why was I charged this amount?,account_billing
+Does the headphones have a warranty?,product_inquiry
+When was my package sent?,order_status
+What are the specs of the smartwatch?,product_inquiry
+What's the fastest shipping?,shipping_delivery
+My headphones is running slow,technical_support
+Can I pick up in store?,shipping_delivery
+Do you ship internationally?,shipping_delivery
+Where is your company?,general_inquiry
+Do you offer free returns?,returns_refunds
+Can I change my shipping address?,shipping_delivery
+Can I get a refund?,returns_refunds
+How do I cancel my subscription?,account_billing
+Do you offer express shipping?,shipping_delivery
+Does the camera have a warranty?,product_inquiry
+My smartphone won't connect,technical_support
+I need a receipt,account_billing
+I want to return this laptop,returns_refunds
+Do you have a physical store?,general_inquiry
+Why was I charged this amount?,account_billing
+My mouse is running slow,technical_support
+What are your business hours?,general_inquiry
+The laptop keeps freezing,technical_support
+Do you have tablet in stock?,product_inquiry
+Is the headphones available in red?,product_inquiry
+My speaker won't connect,technical_support
+The camera keeps freezing,technical_support
+The screen is black on my keyboard,technical_support
+What colors does the smartphone come in?,product_inquiry
+Do you have a physical store?,general_inquiry
+Can I get your newsletter?,general_inquiry
+What are your business hours?,general_inquiry
+Can I track my shipment?,order_status
+Can you check on my delivery?,order_status
+What's the status of my order?,order_status
+I can't update my laptop,technical_support
+How do I return my laptop?,returns_refunds
+How do I start a return?,returns_refunds
+The camera keeps freezing,technical_support
+I can't update my keyboard,technical_support
+How long does shipping take?,shipping_delivery
+Do you have headphones in stock?,product_inquiry
+How do I change billing address?,account_billing
+The screen is black on my monitor,technical_support
+Is the camera waterproof?,product_inquiry
+What's the fastest shipping?,shipping_delivery
+Is there free shipping?,shipping_delivery
+Do you have laptop in stock?,product_inquiry
+How do I return my laptop?,returns_refunds
+I need a receipt,account_billing
+What are the specs of the smartphone?,product_inquiry
+How do I start a return?,returns_refunds
+I need to send back my tablet,returns_refunds
+Why was I charged this amount?,account_billing
+What are the specs of the headphones?,product_inquiry
+Does the smartwatch have a warranty?,product_inquiry
+What are the shipping costs?,shipping_delivery
+I don't recognize this charge,account_billing
+The screen is black on my smartwatch,technical_support
+Do you offer express shipping?,shipping_delivery
+Is the monitor waterproof?,product_inquiry
+My monitor is running slow,technical_support
+Can I track my shipment?,order_status
+How do I start a return?,returns_refunds
+Is the monitor waterproof?,product_inquiry
+When was my package sent?,order_status
+Can I get your newsletter?,general_inquiry
+What colors does the mouse come in?,product_inquiry
+Can I track my shipment?,order_status
+Do you have a mobile app?,general_inquiry
+How long does shipping take?,shipping_delivery
+How do I create an account?,general_inquiry
+How can I contact support?,general_inquiry
+What's your return policy?,returns_refunds
+How long until delivery?,order_status
+When will my monitor arrive?,order_status
+What shipping methods available?,shipping_delivery
+How do I start a return?,returns_refunds
+Can I get an invoice?,account_billing
+What's included with the smartwatch?,product_inquiry
+Is there free shipping?,shipping_delivery
+My headphones won't connect,technical_support
+How do I update my credit card?,account_billing
+The GPS isn't working,technical_support
+Where is your company?,general_inquiry
+Does the smartphone have a warranty?,product_inquiry
+How long does shipping take?,shipping_delivery
+Do you offer express shipping?,shipping_delivery
+How can I contact support?,general_inquiry
+I can't update my speaker,technical_support
+Where do I ship returns?,returns_refunds
+Why was I charged this amount?,account_billing
+Do you ship to California?,shipping_delivery
+Do you ship internationally?,shipping_delivery
+Can I chat with someone?,general_inquiry
+Can I exchange my smartphone?,returns_refunds
+When will my smartwatch arrive?,order_status
+Can I track my shipment?,order_status
+Do you have a physical store?,general_inquiry
+What's the price of the keyboard?,product_inquiry
+What colors does the laptop come in?,product_inquiry
+Do you ship to California?,shipping_delivery
+Where is your company?,general_inquiry
+Do you ship to Canada?,shipping_delivery
+Tell me about the laptop features,product_inquiry
+Can I update my payment method?,account_billing
+The laptop keeps freezing,technical_support
+How do I update my credit card?,account_billing
+Is my laptop on the way?,order_status
+How do I return my tablet?,returns_refunds
+How much does the smartphone cost?,product_inquiry
+What payment methods accepted?,general_inquiry
+How long does shipping take?,shipping_delivery
+Can I update my payment method?,account_billing
+My smartwatch won't charge,technical_support
+Can I get a refund?,returns_refunds
+Can I pick up in store?,shipping_delivery
+What's your return policy?,returns_refunds
+Can I track my shipment?,order_status
+Can you check on my delivery?,order_status
+Can I track my shipment?,order_status
+How do I update my credit card?,account_billing
+The wifi isn't working,technical_support
+What's your return policy?,returns_refunds
+What's your phone number?,general_inquiry
+How do I return my smartwatch?,returns_refunds
+How do I start a return?,returns_refunds
+How do I update my credit card?,account_billing
+I was charged twice,account_billing
+How long do I have to return?,returns_refunds
+I was charged twice,account_billing
+I haven't received my order,order_status
+What's your phone number?,general_inquiry
+I need to send back my monitor,returns_refunds
+How do I cancel my subscription?,account_billing
+I don't recognize this charge,account_billing
+How do I change billing address?,account_billing
+The monitor makes strange noises,technical_support
+What are the specs of the tablet?,product_inquiry
+My mouse won't connect,technical_support
+What colors does the keyboard come in?,product_inquiry
+Do you have a physical store?,general_inquiry
+The monitor keeps freezing,technical_support
+The tablet keeps freezing,technical_support
+Where is your company?,general_inquiry
+Can I update my payment method?,account_billing
+I need a receipt,account_billing
+The camera keeps freezing,technical_support
+What's the fastest shipping?,shipping_delivery
+What's included with the mouse?,product_inquiry
+How much does the tablet cost?,product_inquiry
+Is the camera available in gold?,product_inquiry
+Can I change my payment plan?,account_billing
+I need to send back my laptop,returns_refunds
+What's the price of the laptop?,product_inquiry
+How long do I have to return?,returns_refunds
+How do I start a return?,returns_refunds
+My tablet won't charge,technical_support
+Do you offer express shipping?,shipping_delivery
+Can I track my shipment?,order_status
+What's included with the laptop?,product_inquiry
+How do I start a return?,returns_refunds
+How do I return my laptop?,returns_refunds
+My keyboard is running slow,technical_support
+What's included with the smartphone?,product_inquiry
+My smartwatch won't turn on,technical_support
+The NFC isn't working,technical_support
+I want to return this mouse,returns_refunds
+Do you offer express shipping?,shipping_delivery
+How long do I have to return?,returns_refunds
+My headphones won't charge,technical_support
+Is there free shipping?,shipping_delivery
+Do you ship internationally?,shipping_delivery
+Can I exchange my keyboard?,returns_refunds
+What payment methods accepted?,general_inquiry
+What's the fastest shipping?,shipping_delivery
+How much does the headphones cost?,product_inquiry
+Can I exchange my laptop?,returns_refunds
+How do I return my smartwatch?,returns_refunds
+What's the status of my order?,order_status
+I haven't received my order,order_status
+Do you ship to Europe?,shipping_delivery
+Can I get your newsletter?,general_inquiry
+Is the laptop waterproof?,product_inquiry
+Can I get an invoice?,account_billing
+How do I start a return?,returns_refunds
+Can I get a refund?,returns_refunds
+What colors does the monitor come in?,product_inquiry
+I need a receipt,account_billing
+My smartphone won't charge,technical_support
+The screen is black on my mouse,technical_support
+How long does shipping take?,shipping_delivery
+What are your business hours?,general_inquiry
+Can I pick up in store?,shipping_delivery
+Why was I charged this amount?,account_billing
+Do you offer free returns?,returns_refunds
+Can I chat with someone?,general_inquiry
+Is the mouse waterproof?,product_inquiry
+My laptop won't charge,technical_support
+What's your phone number?,general_inquiry
+What's the fastest shipping?,shipping_delivery
+Where do I ship returns?,returns_refunds
+The camera keeps freezing,technical_support
+My keyboard won't charge,technical_support
+Can I get a refund?,returns_refunds
+My headphones is running slow,technical_support
+What are the specs of the monitor?,product_inquiry
+Can I change my payment plan?,account_billing
+Does the headphones have a warranty?,product_inquiry
+How do I update my credit card?,account_billing
+Is the headphones waterproof?,product_inquiry
+Why was I charged this amount?,account_billing
+Can I get an invoice?,account_billing
+What's the fastest shipping?,shipping_delivery
+What's the price of the smartphone?,product_inquiry
+What's your phone number?,general_inquiry
+Is there free shipping?,shipping_delivery
+I don't recognize this charge,account_billing
+What colors does the headphones come in?,product_inquiry
+Has my order been shipped?,order_status
+How long does shipping take?,shipping_delivery
+What's your return policy?,returns_refunds
+Do you have a mobile app?,general_inquiry
+Do you have a mobile app?,general_inquiry
+Tell me about the tablet features,product_inquiry
+Where is your company?,general_inquiry
+Do you have a physical store?,general_inquiry
+When was my package sent?,order_status
+I need to send back my mouse,returns_refunds
+The NFC isn't working,technical_support
+Can you check on my delivery?,order_status
+My headphones is running slow,technical_support
+The 5G isn't working,technical_support
+My laptop won't charge,technical_support
+Does the mouse have a warranty?,product_inquiry
+What's your phone number?,general_inquiry
+Where is my order?,order_status
+The laptop keeps freezing,technical_support
+Can I pick up in store?,shipping_delivery
+How much does the headphones cost?,product_inquiry
+Has my order been shipped?,order_status
+Tell me about the tablet features,product_inquiry
+What colors does the speaker come in?,product_inquiry
+Can I chat with someone?,general_inquiry
+How long do I have to return?,returns_refunds
+Do you ship internationally?,shipping_delivery
+Where do I ship returns?,returns_refunds
+Is my smartphone on the way?,order_status
+What's the price of the smartphone?,product_inquiry
+My tablet is running slow,technical_support
+My mouse won't turn on,technical_support
+I need a receipt,account_billing
+When will my keyboard arrive?,order_status
+The speaker makes strange noises,technical_support
+What's the fastest shipping?,shipping_delivery
+How do I cancel my subscription?,account_billing
+I want to return this keyboard,returns_refunds
+Can I change my payment plan?,account_billing
+Where is your company?,general_inquiry
+What's your return policy?,returns_refunds
+Can I get a refund?,returns_refunds
+Why was I charged this amount?,account_billing
+How long does shipping take?,shipping_delivery
+I can't update my speaker,technical_support
+Is the smartphone waterproof?,product_inquiry
+I need to send back my monitor,returns_refunds
+My mouse won't turn on,technical_support
+Does the smartwatch have a warranty?,product_inquiry
+I want to return this speaker,returns_refunds
+I can't update my headphones,technical_support
+Can I change my shipping address?,shipping_delivery
+I can't update my monitor,technical_support
+What's the price of the tablet?,product_inquiry
+Tell me about the camera features,product_inquiry
+Do you ship internationally?,shipping_delivery
+Does the keyboard have a warranty?,product_inquiry
+The headphones makes strange noises,technical_support
+How do I return my camera?,returns_refunds
+My monitor won't turn on,technical_support
+How do I create an account?,general_inquiry
+Is the smartphone available in gold?,product_inquiry
+How do I return my speaker?,returns_refunds
+Where do I ship returns?,returns_refunds
+Can I pick up in store?,shipping_delivery
+Do you have tablet in stock?,product_inquiry
+Do you ship internationally?,shipping_delivery
+My mouse won't charge,technical_support
+My headphones won't connect,technical_support
+How do I create an account?,general_inquiry
+I need to send back my smartwatch,returns_refunds
+Is my mouse on the way?,order_status
+Do you offer free returns?,returns_refunds
+What shipping methods available?,shipping_delivery
+Can I exchange my camera?,returns_refunds
+What's the fastest shipping?,shipping_delivery
+Can I exchange my smartwatch?,returns_refunds
+Can I chat with someone?,general_inquiry
+Where is your company?,general_inquiry
+How do I return my speaker?,returns_refunds
+What's your phone number?,general_inquiry
+Do you offer free returns?,returns_refunds
+Can I track my shipment?,order_status
+Is my speaker on the way?,order_status
+Do you have tablet in stock?,product_inquiry
+Can I get a refund?,returns_refunds
+I'm getting an error on my monitor,technical_support
+My smartwatch won't charge,technical_support
+Is the keyboard available in white?,product_inquiry
+How long does shipping take?,shipping_delivery
+What colors does the smartphone come in?,product_inquiry
+Can I update my payment method?,account_billing
+Do you ship internationally?,shipping_delivery
+The mouse keeps freezing,technical_support
+Why was I charged this amount?,account_billing
+I don't recognize this charge,account_billing
+I was charged twice,account_billing
+What are the shipping costs?,shipping_delivery
+Can I update my payment method?,account_billing
+How do I return my laptop?,returns_refunds
+Can I pick up in store?,shipping_delivery
+Can you check on my delivery?,order_status
+Can I change my shipping address?,shipping_delivery
+The laptop keeps freezing,technical_support
+I want to return this headphones,returns_refunds
+What's your phone number?,general_inquiry
+Can you check on my delivery?,order_status
+What's included with the laptop?,product_inquiry
+Tell me about the keyboard features,product_inquiry
+Do you have a physical store?,general_inquiry
+Can I get a refund?,returns_refunds
+What payment methods accepted?,general_inquiry
+Do you have speaker in stock?,product_inquiry
+My monitor is running slow,technical_support
+Do you offer express shipping?,shipping_delivery
+How long does shipping take?,shipping_delivery
+Can I exchange my mouse?,returns_refunds
+Has my order been shipped?,order_status
+How do I start a return?,returns_refunds
+Do you ship to Europe?,shipping_delivery
+The screen is black on my laptop,technical_support
+How do I change billing address?,account_billing
+Do you ship internationally?,shipping_delivery
+How do I start a return?,returns_refunds
+What's your phone number?,general_inquiry
+What are the specs of the speaker?,product_inquiry
+Can I get a refund?,returns_refunds
+I haven't received my order,order_status
+Do you offer free returns?,returns_refunds
+Do you ship internationally?,shipping_delivery
+The screen is black on my headphones,technical_support
+I can't update my monitor,technical_support
+How do I change billing address?,account_billing
+What payment methods accepted?,general_inquiry
+When will my smartwatch arrive?,order_status
+Is my speaker on the way?,order_status
+Can I track my shipment?,order_status
+I want to return this mouse,returns_refunds
+What's the price of the camera?,product_inquiry
+Can I exchange my laptop?,returns_refunds
+Can I chat with someone?,general_inquiry
+How much does the speaker cost?,product_inquiry
+Do you offer express shipping?,shipping_delivery
+Where is my order?,order_status
+How do I start a return?,returns_refunds
+My smartphone won't connect,technical_support
+I was charged twice,account_billing
+What's included with the camera?,product_inquiry
+Where do I ship returns?,returns_refunds
+How do I return my speaker?,returns_refunds
+What's your phone number?,general_inquiry
+What are the shipping costs?,shipping_delivery
+How do I start a return?,returns_refunds
+How do I update my credit card?,account_billing
+Can I exchange my speaker?,returns_refunds
+What's your return policy?,returns_refunds
+Tell me about the smartphone features,product_inquiry
+Can I track my shipment?,order_status
+Can I pick up in store?,shipping_delivery
+How do I update my credit card?,account_billing
+Tell me about the speaker features,product_inquiry
+Tell me about the laptop features,product_inquiry
+The headphones makes strange noises,technical_support
+How long does shipping take?,shipping_delivery
+What are your business hours?,general_inquiry
+What are the shipping costs?,shipping_delivery
+I haven't received my order,order_status
+My speaker won't connect,technical_support
+I don't recognize this charge,account_billing
+Can I chat with someone?,general_inquiry
+When was my package sent?,order_status
+Do you have a physical store?,general_inquiry
+Where is my order?,order_status
+How do I return my smartphone?,returns_refunds
+What colors does the smartwatch come in?,product_inquiry
+I need to send back my tablet,returns_refunds
+Is the speaker available in black?,product_inquiry
+What shipping methods available?,shipping_delivery
+Do you have monitor in stock?,product_inquiry
+I was charged twice,account_billing
+I was charged twice,account_billing
+What are the specs of the headphones?,product_inquiry
+How do I return my laptop?,returns_refunds
+Tell me about the monitor features,product_inquiry
+Do you offer free returns?,returns_refunds
+Do you offer free returns?,returns_refunds
+Do you have a mobile app?,general_inquiry
+I can't update my mouse,technical_support
+Where is my order?,order_status
+How long until delivery?,order_status
+How can I contact support?,general_inquiry
+Can I change my shipping address?,shipping_delivery
+Where is your company?,general_inquiry
+Where is my order?,order_status
+Do you have a mobile app?,general_inquiry
+How do I create an account?,general_inquiry
+My laptop won't connect,technical_support
+My tablet won't charge,technical_support
+How long do I have to return?,returns_refunds
+The monitor keeps freezing,technical_support
+The headphones makes strange noises,technical_support
+My mouse won't charge,technical_support
+Do you offer express shipping?,shipping_delivery
+Can I get an invoice?,account_billing
+How do I return my mouse?,returns_refunds
+Does the keyboard have a warranty?,product_inquiry
+The monitor makes strange noises,technical_support
+Is the mouse available in gold?,product_inquiry
+Is the camera available in silver?,product_inquiry
+How do I create an account?,general_inquiry
+What payment methods accepted?,general_inquiry
+How do I cancel my subscription?,account_billing
+I need to send back my camera,returns_refunds
+The NFC isn't working,technical_support
+How much does the headphones cost?,product_inquiry
+How long until delivery?,order_status
+Do you have a mobile app?,general_inquiry
+Has my order been shipped?,order_status
+How do I change billing address?,account_billing
+My smartphone won't turn on,technical_support
+What's your phone number?,general_inquiry
+What shipping methods available?,shipping_delivery
+Is my smartphone on the way?,order_status
+When will my smartphone arrive?,order_status
+How do I create an account?,general_inquiry
+I need a receipt,account_billing
+I'm getting an error on my smartphone,technical_support
+The tablet makes strange noises,technical_support
+How do I cancel my subscription?,account_billing
+Do you offer express shipping?,shipping_delivery
+What's your phone number?,general_inquiry
+Do you have a physical store?,general_inquiry
+I'm getting an error on my keyboard,technical_support
+Is the monitor available in white?,product_inquiry
+Do you have camera in stock?,product_inquiry
+I need to send back my smartphone,returns_refunds
+Where do I ship returns?,returns_refunds
+How do I create an account?,general_inquiry
+Do you ship to Australia?,shipping_delivery
+What payment methods accepted?,general_inquiry
+When was my package sent?,order_status
+Do you offer free returns?,returns_refunds
+Can I chat with someone?,general_inquiry
+What are the specs of the mouse?,product_inquiry
+I don't recognize this charge,account_billing
+How long do I have to return?,returns_refunds
+Does the tablet have a warranty?,product_inquiry
+What's the fastest shipping?,shipping_delivery
+How do I update my credit card?,account_billing
+How do I change billing address?,account_billing
+My speaker won't connect,technical_support
+Can I get your newsletter?,general_inquiry
+The tablet keeps freezing,technical_support
+I haven't received my order,order_status
+How long until delivery?,order_status
+How long do I have to return?,returns_refunds
+What are the shipping costs?,shipping_delivery
+Is there free shipping?,shipping_delivery
+What's included with the keyboard?,product_inquiry
+How do I start a return?,returns_refunds
+The screen is black on my tablet,technical_support
+Do you have smartphone in stock?,product_inquiry
+Do you ship to Canada?,shipping_delivery
+How much does the laptop cost?,product_inquiry
+What are your business hours?,general_inquiry
+Does the keyboard have a warranty?,product_inquiry
+Is the keyboard waterproof?,product_inquiry
+Does the mouse have a warranty?,product_inquiry
+What shipping methods available?,shipping_delivery
+Do you ship internationally?,shipping_delivery
+Can I get an invoice?,account_billing
+I want to return this smartwatch,returns_refunds
+What shipping methods available?,shipping_delivery
+Is there free shipping?,shipping_delivery
+How much does the headphones cost?,product_inquiry
+Where is my order?,order_status
+Do you have camera in stock?,product_inquiry
+How much does the headphones cost?,product_inquiry
+I was charged twice,account_billing
+Do you have keyboard in stock?,product_inquiry
+What colors does the headphones come in?,product_inquiry
+I haven't received my order,order_status
+Has my order been shipped?,order_status
+How much does the mouse cost?,product_inquiry
+The screen is black on my speaker,technical_support
+Can I change my payment plan?,account_billing
+The laptop keeps freezing,technical_support
+Is the headphones available in black?,product_inquiry
+I haven't received my order,order_status
+How do I update my credit card?,account_billing
+The screen is black on my camera,technical_support
+Do you have headphones in stock?,product_inquiry
+My tablet is running slow,technical_support
+What's the status of my order?,order_status
+What's the status of my order?,order_status
+My monitor won't turn on,technical_support
+What's your return policy?,returns_refunds
+I need a receipt,account_billing
+Has my order been shipped?,order_status
+How do I return my camera?,returns_refunds
+Do you offer express shipping?,shipping_delivery
+What payment methods accepted?,general_inquiry
+What's the status of my order?,order_status
+What payment methods accepted?,general_inquiry
+I was charged twice,account_billing
+Can I chat with someone?,general_inquiry
+I want to return this mouse,returns_refunds
+What's your phone number?,general_inquiry
+How can I contact support?,general_inquiry
+Has my order been shipped?,order_status
+Do you have a physical store?,general_inquiry
+How do I return my headphones?,returns_refunds
+Can I get your newsletter?,general_inquiry
+The NFC isn't working,technical_support
+I need a receipt,account_billing
+The camera keeps freezing,technical_support
+Do you have a physical store?,general_inquiry
+How do I change billing address?,account_billing
+Is the keyboard available in gold?,product_inquiry
+I need a receipt,account_billing
+The screen is black on my mouse,technical_support
+I was charged twice,account_billing
+What are the shipping costs?,shipping_delivery
+The mouse makes strange noises,technical_support
+Where is my order?,order_status
+What are your business hours?,general_inquiry
+I haven't received my order,order_status
+Tell me about the keyboard features,product_inquiry
+What shipping methods available?,shipping_delivery
+How long do I have to return?,returns_refunds
+Can I change my payment plan?,account_billing
+Can you check on my delivery?,order_status
+Do you offer free returns?,returns_refunds
+Where do I ship returns?,returns_refunds
+Do you have a physical store?,general_inquiry
+Can I get an invoice?,account_billing
+Tell me about the headphones features,product_inquiry
+I want to return this smartphone,returns_refunds
+Do you have a physical store?,general_inquiry
+Can I get a refund?,returns_refunds
+How do I start a return?,returns_refunds
+Is my monitor on the way?,order_status
+What's the price of the headphones?,product_inquiry
+Is the smartphone available in white?,product_inquiry
+Where do I ship returns?,returns_refunds
+Tell me about the monitor features,product_inquiry
+How much does the smartwatch cost?,product_inquiry
+The screen is black on my keyboard,technical_support
+What's the status of my order?,order_status
+Can I pick up in store?,shipping_delivery
+When was my package sent?,order_status
+I need to send back my tablet,returns_refunds
+Is the mouse available in red?,product_inquiry
+Tell me about the smartphone features,product_inquiry
+Where is my order?,order_status
+What colors does the smartphone come in?,product_inquiry
+Can I pick up in store?,shipping_delivery
+What's the fastest shipping?,shipping_delivery
+The smartwatch keeps freezing,technical_support
+How do I create an account?,general_inquiry
+Do you have smartphone in stock?,product_inquiry
+My mouse won't charge,technical_support
+Can I track my shipment?,order_status
+I can't update my smartphone,technical_support
+What colors does the tablet come in?,product_inquiry
+Do you have a mobile app?,general_inquiry
+When was my package sent?,order_status
+Tell me about the monitor features,product_inquiry
+I need to send back my mouse,returns_refunds
+My smartwatch is running slow,technical_support
+How do I change billing address?,account_billing
+What's included with the keyboard?,product_inquiry
+My camera won't connect,technical_support
+My monitor won't charge,technical_support
+Is my headphones on the way?,order_status
+My keyboard won't turn on,technical_support
+What's the price of the laptop?,product_inquiry
+Do you offer express shipping?,shipping_delivery
+What's your return policy?,returns_refunds
+What's the price of the keyboard?,product_inquiry
+Why was I charged this amount?,account_billing
+Where do I ship returns?,returns_refunds
+What are the shipping costs?,shipping_delivery
+The mouse keeps freezing,technical_support
+When was my package sent?,order_status
+My speaker won't turn on,technical_support
+Can I exchange my laptop?,returns_refunds
+Can I pick up in store?,shipping_delivery
+Is the smartphone available in black?,product_inquiry
+Can you check on my delivery?,order_status
+Can I chat with someone?,general_inquiry
+How do I change billing address?,account_billing
+Do you have a physical store?,general_inquiry
+Do you offer express shipping?,shipping_delivery
+Why was I charged this amount?,account_billing
+Can I pick up in store?,shipping_delivery
+How do I change billing address?,account_billing
+Do you ship internationally?,shipping_delivery
+Can I change my payment plan?,account_billing
+Can you check on my delivery?,order_status
+How long does shipping take?,shipping_delivery
+How can I contact support?,general_inquiry
+Do you offer free returns?,returns_refunds
+How can I contact support?,general_inquiry
+My camera won't connect,technical_support
+What's the price of the mouse?,product_inquiry
+How do I create an account?,general_inquiry
+Can I track my shipment?,order_status
+Can I exchange my keyboard?,returns_refunds
+Is the keyboard waterproof?,product_inquiry
+I haven't received my order,order_status
+My smartphone won't charge,technical_support
+The 5G isn't working,technical_support
+Can I exchange my tablet?,returns_refunds
+What's the status of my order?,order_status
+Can I get a refund?,returns_refunds
+Has my order been shipped?,order_status
+Do you offer free returns?,returns_refunds
+What's your return policy?,returns_refunds
+Do you ship internationally?,shipping_delivery
+Can I chat with someone?,general_inquiry
+Where is your company?,general_inquiry
+Can I get your newsletter?,general_inquiry
+My speaker won't connect,technical_support
+Can I track my shipment?,order_status
+I haven't received my order,order_status
+Do you offer free returns?,returns_refunds
+I haven't received my order,order_status
+Does the camera have a warranty?,product_inquiry
+How can I contact support?,general_inquiry
+What are your business hours?,general_inquiry
+Where is your company?,general_inquiry
+What's the status of my order?,order_status
+Can I get your newsletter?,general_inquiry
+How do I return my mouse?,returns_refunds
+I'm getting an error on my headphones,technical_support
+What are the specs of the tablet?,product_inquiry
+When was my package sent?,order_status
+How do I update my credit card?,account_billing
+When was my package sent?,order_status
+How do I change billing address?,account_billing
+My smartwatch won't connect,technical_support
+Do you have a physical store?,general_inquiry
+How much does the keyboard cost?,product_inquiry
+How do I update my credit card?,account_billing
+Does the monitor have a warranty?,product_inquiry
+What shipping methods available?,shipping_delivery
+Can I chat with someone?,general_inquiry
+Can I exchange my mouse?,returns_refunds
+The mouse keeps freezing,technical_support
+I want to return this smartphone,returns_refunds
+How long does shipping take?,shipping_delivery
+When was my package sent?,order_status
+Do you ship to Australia?,shipping_delivery
+The speaker makes strange noises,technical_support
+My monitor won't connect,technical_support
+Can I pick up in store?,shipping_delivery
+Can I get your newsletter?,general_inquiry
+Can I change my payment plan?,account_billing
+I haven't received my order,order_status
+What colors does the smartphone come in?,product_inquiry
+Do you have a physical store?,general_inquiry
+Does the tablet have a warranty?,product_inquiry
+How do I create an account?,general_inquiry
+What colors does the camera come in?,product_inquiry
+My speaker won't charge,technical_support
+Is the keyboard available in red?,product_inquiry
+What's your phone number?,general_inquiry
+When was my package sent?,order_status
+Can I get your newsletter?,general_inquiry
+What are your business hours?,general_inquiry
+Do you have a physical store?,general_inquiry
+Where is my order?,order_status
+How much does the speaker cost?,product_inquiry
+Can I change my shipping address?,shipping_delivery
+How do I start a return?,returns_refunds
+The laptop keeps freezing,technical_support
+What's included with the tablet?,product_inquiry
+How much does the monitor cost?,product_inquiry
+Can I change my shipping address?,shipping_delivery
+Can I update my payment method?,account_billing
+I was charged twice,account_billing
+How do I start a return?,returns_refunds
+How much does the headphones cost?,product_inquiry
+What shipping methods available?,shipping_delivery
+Do you ship to Canada?,shipping_delivery
+How do I start a return?,returns_refunds
+Do you have a physical store?,general_inquiry
+Do you offer express shipping?,shipping_delivery
+Can I get an invoice?,account_billing
+How do I change billing address?,account_billing
+I don't recognize this charge,account_billing
+How do I cancel my subscription?,account_billing
+Do you offer express shipping?,shipping_delivery
+The wifi isn't working,technical_support
+What's the price of the camera?,product_inquiry
+I was charged twice,account_billing
+Can I track my shipment?,order_status
+Do you ship to Europe?,shipping_delivery
+Can I get your newsletter?,general_inquiry
+How long until delivery?,order_status
+I can't update my headphones,technical_support
+Do you ship to Australia?,shipping_delivery
+What colors does the smartphone come in?,product_inquiry
+I can't update my smartwatch,technical_support
+Tell me about the headphones features,product_inquiry
+How do I create an account?,general_inquiry
+Do you offer free returns?,returns_refunds
+My keyboard won't connect,technical_support
+How do I update my credit card?,account_billing
+The bluetooth isn't working,technical_support
+Does the smartwatch have a warranty?,product_inquiry
+Tell me about the keyboard features,product_inquiry
+What's the fastest shipping?,shipping_delivery
+I want to return this mouse,returns_refunds
+What shipping methods available?,shipping_delivery
+Can I get an invoice?,account_billing
+The wifi isn't working,technical_support
+When was my package sent?,order_status
+Do you offer express shipping?,shipping_delivery
+Do you have mouse in stock?,product_inquiry
+Can I exchange my smartwatch?,returns_refunds
+Does the keyboard have a warranty?,product_inquiry
+Where do I ship returns?,returns_refunds
+Where do I ship returns?,returns_refunds
+The bluetooth isn't working,technical_support
+How do I create an account?,general_inquiry
+What's your phone number?,general_inquiry
+I haven't received my order,order_status
+Is my smartphone on the way?,order_status
+Do you ship internationally?,shipping_delivery
+The speaker keeps freezing,technical_support
+My keyboard won't connect,technical_support
+My keyboard won't charge,technical_support
+What's the price of the smartphone?,product_inquiry
+Can I pick up in store?,shipping_delivery
+Do you ship internationally?,shipping_delivery
+How do I cancel my subscription?,account_billing
+Do you have a mobile app?,general_inquiry
+Is the keyboard available in blue?,product_inquiry
+How long until delivery?,order_status
+How do I start a return?,returns_refunds
+I can't update my smartphone,technical_support
+What are the specs of the monitor?,product_inquiry
+Can I exchange my speaker?,returns_refunds
+What are your business hours?,general_inquiry
+I was charged twice,account_billing
+Can I chat with someone?,general_inquiry
+Can I get an invoice?,account_billing
+What are the specs of the smartwatch?,product_inquiry
+Can I update my payment method?,account_billing
+When was my package sent?,order_status
+My tablet won't charge,technical_support
+I don't recognize this charge,account_billing
+Can I get an invoice?,account_billing
+I can't update my keyboard,technical_support
+What shipping methods available?,shipping_delivery
+How do I cancel my subscription?,account_billing
+Do you offer express shipping?,shipping_delivery
+How long do I have to return?,returns_refunds
+How long do I have to return?,returns_refunds
+The laptop keeps freezing,technical_support
+Where is your company?,general_inquiry
+Can I chat with someone?,general_inquiry
+What's the status of my order?,order_status
+When will my laptop arrive?,order_status
+Is my camera on the way?,order_status
+What's your phone number?,general_inquiry
+Can I change my payment plan?,account_billing
+Is the headphones waterproof?,product_inquiry
+Can I pick up in store?,shipping_delivery
+I don't recognize this charge,account_billing
+My keyboard won't turn on,technical_support
+Can I chat with someone?,general_inquiry
+Is my smartphone on the way?,order_status
+I was charged twice,account_billing
+I can't update my headphones,technical_support
+Can I get an invoice?,account_billing
+I haven't received my order,order_status
+Is the smartwatch available in red?,product_inquiry
+How can I contact support?,general_inquiry
+Can I chat with someone?,general_inquiry
+How much does the laptop cost?,product_inquiry
+What colors does the monitor come in?,product_inquiry
+Do you ship to Europe?,shipping_delivery
+The screen is black on my headphones,technical_support
+I want to return this camera,returns_refunds
+I haven't received my order,order_status
+Do you offer free returns?,returns_refunds
+What's included with the smartwatch?,product_inquiry
+Do you have a physical store?,general_inquiry
+When was my package sent?,order_status
+How much does the speaker cost?,product_inquiry
+Do you ship to Australia?,shipping_delivery
+Is the monitor available in silver?,product_inquiry
+My smartwatch won't connect,technical_support
+How long do I have to return?,returns_refunds
+Does the laptop have a warranty?,product_inquiry
+My mouse won't turn on,technical_support
+How do I return my keyboard?,returns_refunds
+I want to return this camera,returns_refunds
+When was my package sent?,order_status
+Can I pick up in store?,shipping_delivery
+Do you offer express shipping?,shipping_delivery
+How do I change billing address?,account_billing
+Can I get an invoice?,account_billing
+The screen is black on my keyboard,technical_support
+Can I get an invoice?,account_billing
+Is the laptop waterproof?,product_inquiry
+Can I get a refund?,returns_refunds
+How can I contact support?,general_inquiry
+What payment methods accepted?,general_inquiry
+Can I get your newsletter?,general_inquiry
+How do I create an account?,general_inquiry
+Do you ship to California?,shipping_delivery
+Tell me about the monitor features,product_inquiry
+I can't update my monitor,technical_support
+The laptop keeps freezing,technical_support
+I want to return this smartphone,returns_refunds
+What's the price of the keyboard?,product_inquiry
+Is my speaker on the way?,order_status
+How much does the smartwatch cost?,product_inquiry
+Where is your company?,general_inquiry
+Do you offer express shipping?,shipping_delivery
+Is my laptop on the way?,order_status
+Can I track my shipment?,order_status
+Does the camera have a warranty?,product_inquiry
+Where do I ship returns?,returns_refunds
+How long until delivery?,order_status
+My headphones won't charge,technical_support
+I need to send back my smartphone,returns_refunds
+What are the shipping costs?,shipping_delivery
+What are your business hours?,general_inquiry
+My laptop is running slow,technical_support
+My laptop won't connect,technical_support
+What's the status of my order?,order_status
+The smartphone keeps freezing,technical_support
+The speaker keeps freezing,technical_support
+Does the keyboard have a warranty?,product_inquiry
+Is the headphones available in red?,product_inquiry
+Can I change my payment plan?,account_billing
+Can I update my payment method?,account_billing
+I don't recognize this charge,account_billing
+How long does shipping take?,shipping_delivery
+Can I get a refund?,returns_refunds
+Can I update my payment method?,account_billing
+What's included with the smartwatch?,product_inquiry
+How do I create an account?,general_inquiry
+The screen is black on my smartphone,technical_support
+I haven't received my order,order_status
+How do I cancel my subscription?,account_billing
+How do I return my headphones?,returns_refunds
+What are your business hours?,general_inquiry
+Can I get an invoice?,account_billing
+What shipping methods available?,shipping_delivery
+How do I change billing address?,account_billing
+Do you have a physical store?,general_inquiry
+Is the smartphone available in white?,product_inquiry
+Can I track my shipment?,order_status
+The laptop makes strange noises,technical_support
+I need to send back my monitor,returns_refunds
+Does the keyboard have a warranty?,product_inquiry
+What's the fastest shipping?,shipping_delivery
+Can I get an invoice?,account_billing
+My tablet won't turn on,technical_support
+What payment methods accepted?,general_inquiry
+How do I cancel my subscription?,account_billing
+Does the laptop have a warranty?,product_inquiry
+How can I contact support?,general_inquiry
+I want to return this headphones,returns_refunds
+Where do I ship returns?,returns_refunds
+How long do I have to return?,returns_refunds
+I was charged twice,account_billing
+My smartwatch won't turn on,technical_support
+My keyboard won't connect,technical_support
+How long does shipping take?,shipping_delivery
+Can I chat with someone?,general_inquiry
+Do you have a mobile app?,general_inquiry
+How do I start a return?,returns_refunds
+Can I update my payment method?,account_billing
+The screen is black on my smartwatch,technical_support
+How can I contact support?,general_inquiry
+Is the monitor available in white?,product_inquiry
+Is my speaker on the way?,order_status
+How do I change billing address?,account_billing
+My laptop is running slow,technical_support
+Can I get your newsletter?,general_inquiry
+I don't recognize this charge,account_billing
+Can I chat with someone?,general_inquiry
+Do you ship to Australia?,shipping_delivery
+What's your return policy?,returns_refunds
+The screen is black on my monitor,technical_support
+Can I update my payment method?,account_billing
+What are the shipping costs?,shipping_delivery
+I'm getting an error on my tablet,technical_support
+How do I cancel my subscription?,account_billing
+What's the status of my order?,order_status
+How do I create an account?,general_inquiry
+Does the camera have a warranty?,product_inquiry
+I can't update my speaker,technical_support
+The tablet keeps freezing,technical_support
+My laptop is running slow,technical_support
+The monitor makes strange noises,technical_support
+Do you have monitor in stock?,product_inquiry
+When will my smartwatch arrive?,order_status
+The headphones makes strange noises,technical_support
+Can I change my shipping address?,shipping_delivery
+The GPS isn't working,technical_support
+Can I pick up in store?,shipping_delivery
+Can you check on my delivery?,order_status
+How do I cancel my subscription?,account_billing
+The smartphone makes strange noises,technical_support
+Can I get your newsletter?,general_inquiry
+Can I change my payment plan?,account_billing
+My keyboard won't turn on,technical_support
+What are the specs of the speaker?,product_inquiry
+How do I start a return?,returns_refunds
+Is there free shipping?,shipping_delivery
+How can I contact support?,general_inquiry
+How long does shipping take?,shipping_delivery
+How do I change billing address?,account_billing
+My headphones won't connect,technical_support
+What colors does the smartphone come in?,product_inquiry
+I was charged twice,account_billing
+How do I change billing address?,account_billing
+Where is your company?,general_inquiry
+What's the status of my order?,order_status
+Do you offer express shipping?,shipping_delivery
+When was my package sent?,order_status
+Why was I charged this amount?,account_billing
+Can I get a refund?,returns_refunds
+Can I change my payment plan?,account_billing
+I was charged twice,account_billing
+Do you have a physical store?,general_inquiry
+Where is my order?,order_status
+What colors does the mouse come in?,product_inquiry
+How long does shipping take?,shipping_delivery
+What are your business hours?,general_inquiry
+The headphones keeps freezing,technical_support
+I want to return this monitor,returns_refunds
+How do I change billing address?,account_billing
+Do you ship to Australia?,shipping_delivery
+The smartphone keeps freezing,technical_support
+Is the headphones waterproof?,product_inquiry
+I need to send back my smartwatch,returns_refunds
+My speaker won't charge,technical_support
+I can't update my smartphone,technical_support
+Can I exchange my speaker?,returns_refunds
+What payment methods accepted?,general_inquiry
+How do I update my credit card?,account_billing
+What are your business hours?,general_inquiry
+I want to return this smartphone,returns_refunds
+Where is your company?,general_inquiry
+What's the price of the speaker?,product_inquiry
+Where do I ship returns?,returns_refunds
+Do you have keyboard in stock?,product_inquiry
+What's your phone number?,general_inquiry
+Can I pick up in store?,shipping_delivery
+How do I change billing address?,account_billing
+What are the specs of the mouse?,product_inquiry
+I need to send back my smartphone,returns_refunds
+Is the mouse available in red?,product_inquiry
+What's your phone number?,general_inquiry
+Where is my order?,order_status
+I need to send back my smartwatch,returns_refunds
+My mouse won't connect,technical_support
+How do I return my laptop?,returns_refunds
+What are the shipping costs?,shipping_delivery
+My mouse won't turn on,technical_support
+Can I change my payment plan?,account_billing
+I need to send back my tablet,returns_refunds
+I want to return this headphones,returns_refunds
+Do you offer free returns?,returns_refunds
+Can I update my payment method?,account_billing
+Where do I ship returns?,returns_refunds
+How long does shipping take?,shipping_delivery
+How much does the smartwatch cost?,product_inquiry
+How do I return my tablet?,returns_refunds
+What's the fastest shipping?,shipping_delivery
+Do you have a physical store?,general_inquiry
+Where is my order?,order_status
+Why was I charged this amount?,account_billing
+Is my keyboard on the way?,order_status
+I want to return this laptop,returns_refunds
+Why was I charged this amount?,account_billing
+What's your phone number?,general_inquiry
+Do you ship internationally?,shipping_delivery
+What payment methods accepted?,general_inquiry
+Do you offer free returns?,returns_refunds
+Do you have a mobile app?,general_inquiry
+Is there free shipping?,shipping_delivery
+How much does the camera cost?,product_inquiry
+Do you have a mobile app?,general_inquiry
+What's included with the smartwatch?,product_inquiry
+Do you have smartphone in stock?,product_inquiry
+Do you have a physical store?,general_inquiry
+Can I pick up in store?,shipping_delivery
+My laptop won't turn on,technical_support
+Can I update my payment method?,account_billing
+Do you offer free returns?,returns_refunds
+Where is my order?,order_status
+My headphones won't charge,technical_support
+Do you have a mobile app?,general_inquiry
+I need a receipt,account_billing
+My monitor won't connect,technical_support
+I can't update my mouse,technical_support
+Is the monitor available in white?,product_inquiry
+When will my smartwatch arrive?,order_status
+Can I get a refund?,returns_refunds
+Do you ship to California?,shipping_delivery
+Has my order been shipped?,order_status
+How do I return my monitor?,returns_refunds
+How do I change billing address?,account_billing
+I need to send back my camera,returns_refunds
+How long until delivery?,order_status
+Can you check on my delivery?,order_status
+My tablet won't charge,technical_support
+Do you offer free returns?,returns_refunds
+Do you have a physical store?,general_inquiry
+Do you ship internationally?,shipping_delivery
+Can I update my payment method?,account_billing
+Do you offer express shipping?,shipping_delivery
+When will my laptop arrive?,order_status
+What's the status of my order?,order_status
+Can I get a refund?,returns_refunds
+How can I contact support?,general_inquiry
+How long until delivery?,order_status
+How long until delivery?,order_status
+I need a receipt,account_billing
+What's the fastest shipping?,shipping_delivery
+What colors does the monitor come in?,product_inquiry
+My smartwatch won't charge,technical_support
+Has my order been shipped?,order_status
+How do I change billing address?,account_billing
+Do you have a mobile app?,general_inquiry
+Where is my order?,order_status
+Can I track my shipment?,order_status
+Where do I ship returns?,returns_refunds
+Is the mouse waterproof?,product_inquiry
+My laptop won't turn on,technical_support
+When was my package sent?,order_status
+What are the specs of the monitor?,product_inquiry
+What are the shipping costs?,shipping_delivery
+How much does the smartwatch cost?,product_inquiry
+Do you have a mobile app?,general_inquiry
+Can I track my shipment?,order_status
+Where is your company?,general_inquiry
+Do you have a physical store?,general_inquiry
+My speaker won't connect,technical_support
+Can I change my payment plan?,account_billing
+Can I change my shipping address?,shipping_delivery
+Can I change my shipping address?,shipping_delivery
+What's the fastest shipping?,shipping_delivery
+How long until delivery?,order_status
+Can I pick up in store?,shipping_delivery
+Do you have a physical store?,general_inquiry
+I don't recognize this charge,account_billing
+Is the keyboard available in silver?,product_inquiry
+How can I contact support?,general_inquiry
+I need a receipt,account_billing
+How do I cancel my subscription?,account_billing
+What's your return policy?,returns_refunds
+I was charged twice,account_billing
+The smartwatch makes strange noises,technical_support
+How do I update my credit card?,account_billing
+I don't recognize this charge,account_billing
+How do I update my credit card?,account_billing
+Do you have camera in stock?,product_inquiry
+I can't update my camera,technical_support
+Can I get an invoice?,account_billing
+I haven't received my order,order_status
+What's included with the headphones?,product_inquiry
+Do you have a physical store?,general_inquiry
+Do you offer express shipping?,shipping_delivery
+When will my monitor arrive?,order_status
+How do I create an account?,general_inquiry
+How long do I have to return?,returns_refunds
+Can I exchange my headphones?,returns_refunds
+Is there free shipping?,shipping_delivery
+I need a receipt,account_billing
+How can I contact support?,general_inquiry
+How do I change billing address?,account_billing
+Tell me about the monitor features,product_inquiry
+Can I change my payment plan?,account_billing
+Can I get a refund?,returns_refunds
+When will my keyboard arrive?,order_status
+Does the speaker have a warranty?,product_inquiry
+What payment methods accepted?,general_inquiry
+Do you offer free returns?,returns_refunds
+Does the speaker have a warranty?,product_inquiry
+What's included with the speaker?,product_inquiry
+Can I get an invoice?,account_billing
+Is the headphones waterproof?,product_inquiry
+What's included with the speaker?,product_inquiry
+Is my tablet on the way?,order_status
+The headphones keeps freezing,technical_support
+My camera is running slow,technical_support
+Can I change my shipping address?,shipping_delivery
+Is the smartphone available in white?,product_inquiry
+The screen is black on my tablet,technical_support
+Is my smartwatch on the way?,order_status
+Do you ship to Europe?,shipping_delivery
+How do I create an account?,general_inquiry
+Can I exchange my headphones?,returns_refunds
+Is there free shipping?,shipping_delivery
+How do I create an account?,general_inquiry
+The NFC isn't working,technical_support
+How do I update my credit card?,account_billing
+What payment methods accepted?,general_inquiry
+Has my order been shipped?,order_status
+Is the mouse available in black?,product_inquiry
+The camera keeps freezing,technical_support
+When was my package sent?,order_status
+Where is my order?,order_status
+How do I update my credit card?,account_billing
+I don't recognize this charge,account_billing
+What's your phone number?,general_inquiry
+Where is your company?,general_inquiry
+Can I pick up in store?,shipping_delivery
+What's the fastest shipping?,shipping_delivery
+What payment methods accepted?,general_inquiry
+How much does the smartwatch cost?,product_inquiry
+I was charged twice,account_billing
+I need to send back my smartphone,returns_refunds
+Does the monitor have a warranty?,product_inquiry
+When will my speaker arrive?,order_status
+Does the camera have a warranty?,product_inquiry
+I want to return this smartphone,returns_refunds
+Why was I charged this amount?,account_billing
+How much does the keyboard cost?,product_inquiry
+When will my speaker arrive?,order_status
+Do you offer express shipping?,shipping_delivery
+Where is my order?,order_status
+Can I change my shipping address?,shipping_delivery
+I don't recognize this charge,account_billing
+Can I chat with someone?,general_inquiry
+My smartphone won't charge,technical_support
+Can I change my shipping address?,shipping_delivery
+Can I chat with someone?,general_inquiry
+Can I get an invoice?,account_billing
+Do you offer free returns?,returns_refunds
+What's the fastest shipping?,shipping_delivery
+The camera makes strange noises,technical_support
+Is there free shipping?,shipping_delivery
+I haven't received my order,order_status
+Can I pick up in store?,shipping_delivery
+Can I get an invoice?,account_billing
+How do I update my credit card?,account_billing
+My speaker won't charge,technical_support
+What shipping methods available?,shipping_delivery
+What's your phone number?,general_inquiry
+How long do I have to return?,returns_refunds
+I need to send back my smartphone,returns_refunds
+Can I get your newsletter?,general_inquiry
+Do you offer express shipping?,shipping_delivery
+How long until delivery?,order_status
+The GPS isn't working,technical_support
+I want to return this tablet,returns_refunds
+Can I get your newsletter?,general_inquiry
+What's your phone number?,general_inquiry
+How do I cancel my subscription?,account_billing
+How long does shipping take?,shipping_delivery
+How do I create an account?,general_inquiry
+Can I track my shipment?,order_status
+How do I return my monitor?,returns_refunds
+My camera won't turn on,technical_support
+How do I change billing address?,account_billing
+The laptop makes strange noises,technical_support
+I'm getting an error on my monitor,technical_support
+What's your phone number?,general_inquiry
+The GPS isn't working,technical_support
+I want to return this laptop,returns_refunds
+Do you offer express shipping?,shipping_delivery
+What's included with the tablet?,product_inquiry
+How do I return my tablet?,returns_refunds
+Can I chat with someone?,general_inquiry
+Can I get your newsletter?,general_inquiry
+Do you have a mobile app?,general_inquiry
+I need to send back my mouse,returns_refunds
+I was charged twice,account_billing
+What's the price of the headphones?,product_inquiry
+I haven't received my order,order_status
+Do you have laptop in stock?,product_inquiry
+How long do I have to return?,returns_refunds
+Can I get an invoice?,account_billing
+What payment methods accepted?,general_inquiry
+Can I update my payment method?,account_billing
+Do you offer express shipping?,shipping_delivery
+Is the smartphone available in black?,product_inquiry
+Do you have a mobile app?,general_inquiry
+Do you ship internationally?,shipping_delivery
+Where is your company?,general_inquiry
+How do I cancel my subscription?,account_billing
+Can I exchange my mouse?,returns_refunds
+When will my camera arrive?,order_status
+The smartwatch makes strange noises,technical_support
+What's the fastest shipping?,shipping_delivery
+Can I get an invoice?,account_billing
+How long until delivery?,order_status
+Has my order been shipped?,order_status
+What payment methods accepted?,general_inquiry
+My speaker is running slow,technical_support
+The 5G isn't working,technical_support
+How long until delivery?,order_status
+How do I return my tablet?,returns_refunds
+Can I update my payment method?,account_billing
+What are the specs of the camera?,product_inquiry
+Does the tablet have a warranty?,product_inquiry
+When was my package sent?,order_status
+Do you ship internationally?,shipping_delivery
+My keyboard is running slow,technical_support
+What shipping methods available?,shipping_delivery
+What shipping methods available?,shipping_delivery
+My headphones is running slow,technical_support
+I'm getting an error on my camera,technical_support
+Do you offer free returns?,returns_refunds
+My laptop is running slow,technical_support
+Do you offer free returns?,returns_refunds
+Can I change my payment plan?,account_billing
+What's the fastest shipping?,shipping_delivery
+Where is my order?,order_status
+I'm getting an error on my laptop,technical_support
+Do you have camera in stock?,product_inquiry
+The GPS isn't working,technical_support
+Can I exchange my smartphone?,returns_refunds
+How long does shipping take?,shipping_delivery
+My laptop is running slow,technical_support
+What are the shipping costs?,shipping_delivery
+How long do I have to return?,returns_refunds
+Is the speaker waterproof?,product_inquiry
+I'm getting an error on my monitor,technical_support
+When was my package sent?,order_status
+Can you check on my delivery?,order_status
+Where is your company?,general_inquiry
+How long do I have to return?,returns_refunds
+How do I cancel my subscription?,account_billing
+My headphones won't charge,technical_support
+The keyboard keeps freezing,technical_support
+Do you have a mobile app?,general_inquiry
+Is my camera on the way?,order_status
+Where do I ship returns?,returns_refunds
+Can I pick up in store?,shipping_delivery
+What's your phone number?,general_inquiry
+I need a receipt,account_billing
+Has my order been shipped?,order_status
+What colors does the laptop come in?,product_inquiry
+Is the keyboard available in red?,product_inquiry
+I need a receipt,account_billing
+Can I chat with someone?,general_inquiry
+My monitor won't charge,technical_support
+What's your return policy?,returns_refunds
+Do you have mouse in stock?,product_inquiry
+Do you have mouse in stock?,product_inquiry
+What's the status of my order?,order_status
+I don't recognize this charge,account_billing
+What payment methods accepted?,general_inquiry
+Do you ship to Canada?,shipping_delivery
+Why was I charged this amount?,account_billing
+Tell me about the camera features,product_inquiry
+I need to send back my smartphone,returns_refunds
+Can I chat with someone?,general_inquiry
+What shipping methods available?,shipping_delivery
+Where do I ship returns?,returns_refunds
+How long does shipping take?,shipping_delivery
+My tablet won't turn on,technical_support
+The GPS isn't working,technical_support
+How long until delivery?,order_status
+How do I update my credit card?,account_billing
+How much does the mouse cost?,product_inquiry
+Does the monitor have a warranty?,product_inquiry
+Can you check on my delivery?,order_status
+How do I create an account?,general_inquiry
+Can I exchange my monitor?,returns_refunds
+Can I update my payment method?,account_billing
+How do I return my speaker?,returns_refunds
+My camera is running slow,technical_support
+I can't update my tablet,technical_support
+I can't update my tablet,technical_support
+Tell me about the speaker features,product_inquiry
+I can't update my mouse,technical_support
+How do I cancel my subscription?,account_billing
+My speaker won't connect,technical_support
+When will my smartwatch arrive?,order_status
+Do you ship to Canada?,shipping_delivery
+How do I update my credit card?,account_billing
+The bluetooth isn't working,technical_support
+I'm getting an error on my camera,technical_support
+How do I start a return?,returns_refunds
+What's the price of the smartwatch?,product_inquiry
+How do I cancel my subscription?,account_billing
+My camera won't connect,technical_support
+I can't update my headphones,technical_support
+How much does the smartwatch cost?,product_inquiry
+Is my tablet on the way?,order_status
+My smartphone is running slow,technical_support
+Do you offer free returns?,returns_refunds
+Can I track my shipment?,order_status
+I can't update my smartphone,technical_support
+What's your return policy?,returns_refunds
+Can I chat with someone?,general_inquiry
+What's your return policy?,returns_refunds
+How do I start a return?,returns_refunds
+What are the specs of the smartwatch?,product_inquiry
+What are your business hours?,general_inquiry
+Tell me about the smartwatch features,product_inquiry
+How can I contact support?,general_inquiry
+How do I cancel my subscription?,account_billing
+Does the monitor have a warranty?,product_inquiry
+My tablet won't turn on,technical_support
+How do I create an account?,general_inquiry
+Can I track my shipment?,order_status
+How do I change billing address?,account_billing
+When will my tablet arrive?,order_status
+Is there free shipping?,shipping_delivery
+How much does the mouse cost?,product_inquiry
+Can I update my payment method?,account_billing
+Can I change my shipping address?,shipping_delivery
+Tell me about the camera features,product_inquiry
+Can I exchange my laptop?,returns_refunds
+Is the keyboard waterproof?,product_inquiry
+Can I update my payment method?,account_billing
+Is there free shipping?,shipping_delivery
+The GPS isn't working,technical_support
+I was charged twice,account_billing
+Is there free shipping?,shipping_delivery
+What colors does the laptop come in?,product_inquiry
+How do I change billing address?,account_billing
+When was my package sent?,order_status
+I need a receipt,account_billing
+Why was I charged this amount?,account_billing
+The GPS isn't working,technical_support
+I don't recognize this charge,account_billing
+Where is your company?,general_inquiry
+What's the price of the tablet?,product_inquiry
+Has my order been shipped?,order_status
+Can I track my shipment?,order_status
+I need to send back my camera,returns_refunds
+Can I pick up in store?,shipping_delivery
+Can I get an invoice?,account_billing
+Why was I charged this amount?,account_billing
+I need a receipt,account_billing
+What are your business hours?,general_inquiry
+Can I pick up in store?,shipping_delivery
+What's your return policy?,returns_refunds
+What's your phone number?,general_inquiry
+Can I update my payment method?,account_billing
+Where is my order?,order_status
+What are your business hours?,general_inquiry
+The laptop makes strange noises,technical_support
+The speaker keeps freezing,technical_support
+How do I change billing address?,account_billing
+Can I pick up in store?,shipping_delivery
+I want to return this smartwatch,returns_refunds
+Is the speaker available in white?,product_inquiry
+Where is my order?,order_status
+Can I chat with someone?,general_inquiry
+Where is my order?,order_status
+I can't update my headphones,technical_support
+What's included with the headphones?,product_inquiry
+What are your business hours?,general_inquiry
+Can I change my payment plan?,account_billing
+What's included with the keyboard?,product_inquiry
+Is my keyboard on the way?,order_status
+What colors does the headphones come in?,product_inquiry
+Can I update my payment method?,account_billing
+Tell me about the monitor features,product_inquiry
+How do I start a return?,returns_refunds
+Do you ship internationally?,shipping_delivery
+Can you check on my delivery?,order_status
+How long does shipping take?,shipping_delivery
+My monitor is running slow,technical_support
+How do I start a return?,returns_refunds
+Is the laptop available in gold?,product_inquiry
+How do I return my headphones?,returns_refunds
+I haven't received my order,order_status
+Can I get your newsletter?,general_inquiry
+My tablet won't charge,technical_support
+What's your return policy?,returns_refunds
+I need a receipt,account_billing
+Do you have speaker in stock?,product_inquiry
+The NFC isn't working,technical_support
+The monitor makes strange noises,technical_support
+Can I pick up in store?,shipping_delivery
+What payment methods accepted?,general_inquiry
+Do you offer express shipping?,shipping_delivery
+What's the fastest shipping?,shipping_delivery
+Do you have a physical store?,general_inquiry
+Can I get your newsletter?,general_inquiry
+When was my package sent?,order_status
+What's the status of my order?,order_status
+How much does the headphones cost?,product_inquiry
+I'm getting an error on my mouse,technical_support
+Is the monitor waterproof?,product_inquiry
+What payment methods accepted?,general_inquiry
+My smartwatch won't connect,technical_support
+Do you ship to Australia?,shipping_delivery
+Can I get a refund?,returns_refunds
+Is there free shipping?,shipping_delivery
+What's included with the speaker?,product_inquiry
+Can I exchange my monitor?,returns_refunds
+Where is my order?,order_status
+How can I contact support?,general_inquiry
+Do you have a mobile app?,general_inquiry
+Can you check on my delivery?,order_status
+Is there free shipping?,shipping_delivery
+What's the fastest shipping?,shipping_delivery
+The screen is black on my mouse,technical_support
+Can I change my payment plan?,account_billing
+I don't recognize this charge,account_billing
+My camera won't connect,technical_support
+What's the price of the smartwatch?,product_inquiry
+Do you have a mobile app?,general_inquiry
+What's the price of the speaker?,product_inquiry
+How can I contact support?,general_inquiry
+Is the mouse waterproof?,product_inquiry
+I haven't received my order,order_status
+Can I pick up in store?,shipping_delivery
+What colors does the camera come in?,product_inquiry
+I'm getting an error on my headphones,technical_support
+Can I track my shipment?,order_status
+Can I change my payment plan?,account_billing
+I need to send back my keyboard,returns_refunds
+How do I return my keyboard?,returns_refunds
+When was my package sent?,order_status
+What are the shipping costs?,shipping_delivery
+Do you have a physical store?,general_inquiry
+Why was I charged this amount?,account_billing
+Why was I charged this amount?,account_billing
+Can I track my shipment?,order_status
+Can I chat with someone?,general_inquiry
+Where is your company?,general_inquiry
+Tell me about the laptop features,product_inquiry
+What are your business hours?,general_inquiry
+Can I update my payment method?,account_billing
+Can you check on my delivery?,order_status
+Do you offer express shipping?,shipping_delivery
+The screen is black on my monitor,technical_support
+What's the status of my order?,order_status
+Can I get your newsletter?,general_inquiry
+My camera won't charge,technical_support
+Can I update my payment method?,account_billing
+How do I return my speaker?,returns_refunds
+What are the shipping costs?,shipping_delivery
+Can you check on my delivery?,order_status
+What's the status of my order?,order_status
+Do you offer free returns?,returns_refunds
+I want to return this monitor,returns_refunds
+How do I create an account?,general_inquiry
+Can I get your newsletter?,general_inquiry
+Where is my order?,order_status
+The smartphone makes strange noises,technical_support
+Do you offer express shipping?,shipping_delivery
+What's the fastest shipping?,shipping_delivery
+I want to return this speaker,returns_refunds
+Can you check on my delivery?,order_status
+My laptop is running slow,technical_support
+How long do I have to return?,returns_refunds
+Can I get an invoice?,account_billing
+What's the fastest shipping?,shipping_delivery
+Has my order been shipped?,order_status
+The camera makes strange noises,technical_support
+What's the price of the monitor?,product_inquiry
+Do you have tablet in stock?,product_inquiry
+Do you have a physical store?,general_inquiry
+Where is your company?,general_inquiry
+I was charged twice,account_billing
+How long does shipping take?,shipping_delivery
+What are the specs of the headphones?,product_inquiry
+Do you ship to Canada?,shipping_delivery
+What's the fastest shipping?,shipping_delivery
+Why was I charged this amount?,account_billing
+I'm getting an error on my tablet,technical_support
+Do you have a physical store?,general_inquiry
+I need a receipt,account_billing
+I was charged twice,account_billing
+How long until delivery?,order_status
+Do you have a mobile app?,general_inquiry
+When will my laptop arrive?,order_status
+I want to return this laptop,returns_refunds
+How do I change billing address?,account_billing
+I don't recognize this charge,account_billing
+I need to send back my tablet,returns_refunds
+What payment methods accepted?,general_inquiry
+The smartwatch makes strange noises,technical_support
+What's your phone number?,general_inquiry
+How do I return my laptop?,returns_refunds
+Do you offer express shipping?,shipping_delivery
+Where do I ship returns?,returns_refunds
+What's the price of the camera?,product_inquiry
+Do you offer free returns?,returns_refunds
+Where is your company?,general_inquiry
+What are the shipping costs?,shipping_delivery
+Is my smartphone on the way?,order_status
+What's the price of the smartwatch?,product_inquiry
+Can I track my shipment?,order_status
+When was my package sent?,order_status
+Is the camera waterproof?,product_inquiry
+I want to return this camera,returns_refunds
+The screen is black on my mouse,technical_support
+How long until delivery?,order_status
+I need a receipt,account_billing
+Do you offer free returns?,returns_refunds
+Do you ship internationally?,shipping_delivery
+What payment methods accepted?,general_inquiry
+How do I return my mouse?,returns_refunds
+Do you offer free returns?,returns_refunds
+When will my headphones arrive?,order_status
+The screen is black on my monitor,technical_support
+Where do I ship returns?,returns_refunds
+Can I get your newsletter?,general_inquiry
+What are your business hours?,general_inquiry
+I haven't received my order,order_status
+What are your business hours?,general_inquiry
+Why was I charged this amount?,account_billing
+Can I change my shipping address?,shipping_delivery
+What's the price of the headphones?,product_inquiry
+Can I get an invoice?,account_billing
+Is the laptop waterproof?,product_inquiry
+Do you have speaker in stock?,product_inquiry
+My laptop won't connect,technical_support
+I haven't received my order,order_status
+I was charged twice,account_billing
+How do I update my credit card?,account_billing
+Do you offer free returns?,returns_refunds
+Where is your company?,general_inquiry
+Is the speaker available in gold?,product_inquiry
+How do I cancel my subscription?,account_billing
+I was charged twice,account_billing
+Can I pick up in store?,shipping_delivery
+My smartwatch won't connect,technical_support
+When was my package sent?,order_status
+Can I update my payment method?,account_billing
+Can I get an invoice?,account_billing
+Do you have a physical store?,general_inquiry
+Where is my order?,order_status
+Is my smartwatch on the way?,order_status
+What's the status of my order?,order_status
+I haven't received my order,order_status
+Do you ship to California?,shipping_delivery
+Do you have camera in stock?,product_inquiry
+How do I start a return?,returns_refunds
+Do you ship to Australia?,shipping_delivery
+Is there free shipping?,shipping_delivery
+I can't update my mouse,technical_support
+Do you offer express shipping?,shipping_delivery
+Do you have monitor in stock?,product_inquiry
+Where is your company?,general_inquiry
+What's the price of the smartwatch?,product_inquiry
+What's the fastest shipping?,shipping_delivery
+Do you have a physical store?,general_inquiry
+Can I change my payment plan?,account_billing
+How do I start a return?,returns_refunds
+Has my order been shipped?,order_status
+Is my laptop on the way?,order_status
+Can I update my payment method?,account_billing
+Can I pick up in store?,shipping_delivery
+What are the specs of the camera?,product_inquiry
+Why was I charged this amount?,account_billing
+Do you have tablet in stock?,product_inquiry
+How do I return my headphones?,returns_refunds
+Can I track my shipment?,order_status
+Can I pick up in store?,shipping_delivery
+Do you have camera in stock?,product_inquiry
+What's the price of the monitor?,product_inquiry
+Do you offer free returns?,returns_refunds
+Is there free shipping?,shipping_delivery
+What are the shipping costs?,shipping_delivery
+I'm getting an error on my camera,technical_support
+Can I get a refund?,returns_refunds
+The screen is black on my speaker,technical_support
+Do you have smartphone in stock?,product_inquiry
+What shipping methods available?,shipping_delivery
+I don't recognize this charge,account_billing
+How can I contact support?,general_inquiry
+What's your return policy?,returns_refunds
+How long does shipping take?,shipping_delivery
+How do I cancel my subscription?,account_billing
+What's the fastest shipping?,shipping_delivery
+Do you ship internationally?,shipping_delivery
+How do I update my credit card?,account_billing
+Tell me about the smartwatch features,product_inquiry
+I'm getting an error on my headphones,technical_support
+How can I contact support?,general_inquiry
+How do I start a return?,returns_refunds
+Do you offer free returns?,returns_refunds
+What colors does the laptop come in?,product_inquiry
+My smartphone won't turn on,technical_support
+What are your business hours?,general_inquiry
+Where is my order?,order_status
+My headphones won't connect,technical_support
+Can I get an invoice?,account_billing
+Can I pick up in store?,shipping_delivery
+I need to send back my keyboard,returns_refunds
+My camera won't turn on,technical_support
+What are your business hours?,general_inquiry
+Does the laptop have a warranty?,product_inquiry
+Where do I ship returns?,returns_refunds
+Can I track my shipment?,order_status
+Can I change my payment plan?,account_billing
+What shipping methods available?,shipping_delivery
+My camera won't charge,technical_support
+What's the status of my order?,order_status
+Does the camera have a warranty?,product_inquiry
+My smartphone won't connect,technical_support
+What's included with the speaker?,product_inquiry
+How long until delivery?,order_status
+What's your return policy?,returns_refunds
+I don't recognize this charge,account_billing
+What's the price of the smartphone?,product_inquiry
+What's the status of my order?,order_status
+I don't recognize this charge,account_billing
+Where do I ship returns?,returns_refunds
+Is there free shipping?,shipping_delivery
+Do you offer express shipping?,shipping_delivery
+What are the shipping costs?,shipping_delivery
+My keyboard won't charge,technical_support
+Can I change my payment plan?,account_billing
+Can I change my payment plan?,account_billing
+How much does the smartwatch cost?,product_inquiry
+Can I track my shipment?,order_status
+What's the fastest shipping?,shipping_delivery
+Is the speaker available in silver?,product_inquiry
+I haven't received my order,order_status
+Why was I charged this amount?,account_billing
+What payment methods accepted?,general_inquiry
+Do you ship internationally?,shipping_delivery
+My mouse won't connect,technical_support
+Do you have a physical store?,general_inquiry
+What's your phone number?,general_inquiry
+Where do I ship returns?,returns_refunds
+My keyboard won't turn on,technical_support
+Does the speaker have a warranty?,product_inquiry
+When was my package sent?,order_status
+I can't update my smartphone,technical_support
+Do you offer express shipping?,shipping_delivery
+What are the shipping costs?,shipping_delivery
+What's the price of the camera?,product_inquiry
+I need a receipt,account_billing
+How long does shipping take?,shipping_delivery
+When was my package sent?,order_status
+What are the shipping costs?,shipping_delivery
+I need a receipt,account_billing
+When will my tablet arrive?,order_status
+The 5G isn't working,technical_support
+Do you offer express shipping?,shipping_delivery
+How do I return my mouse?,returns_refunds
+How can I contact support?,general_inquiry
+Can I get a refund?,returns_refunds
+The camera makes strange noises,technical_support
+How can I contact support?,general_inquiry
+Can I get your newsletter?,general_inquiry
+Where is my order?,order_status
+Is the tablet waterproof?,product_inquiry
+When was my package sent?,order_status
+I'm getting an error on my tablet,technical_support
+I don't recognize this charge,account_billing
+Can I get your newsletter?,general_inquiry
+Where is my order?,order_status
+Can I get your newsletter?,general_inquiry
+The screen is black on my tablet,technical_support
+Do you ship to Europe?,shipping_delivery
+What are your business hours?,general_inquiry
+What are the shipping costs?,shipping_delivery
+What's the fastest shipping?,shipping_delivery
+I need to send back my headphones,returns_refunds
+What colors does the smartwatch come in?,product_inquiry
+How do I change billing address?,account_billing
+When was my package sent?,order_status
+What's the status of my order?,order_status
+Tell me about the camera features,product_inquiry
+I haven't received my order,order_status
+My speaker won't charge,technical_support
+My tablet won't connect,technical_support
+Has my order been shipped?,order_status
+Do you have camera in stock?,product_inquiry
+My speaker is running slow,technical_support
+Tell me about the camera features,product_inquiry
+Do you ship to Australia?,shipping_delivery
+How do I cancel my subscription?,account_billing
+The smartphone makes strange noises,technical_support
+What's your return policy?,returns_refunds
+Where is your company?,general_inquiry
+I was charged twice,account_billing
+The 5G isn't working,technical_support
+How do I start a return?,returns_refunds
+What colors does the monitor come in?,product_inquiry
+Is there free shipping?,shipping_delivery
+What are the shipping costs?,shipping_delivery
+My smartphone won't turn on,technical_support
+What payment methods accepted?,general_inquiry
+Do you have a physical store?,general_inquiry
+Do you offer free returns?,returns_refunds
+How do I return my headphones?,returns_refunds
+What's your return policy?,returns_refunds
+Can I get an invoice?,account_billing
+I need a receipt,account_billing
+Is the laptop available in blue?,product_inquiry
+The wifi isn't working,technical_support
+When will my camera arrive?,order_status
+What colors does the mouse come in?,product_inquiry
+Can I chat with someone?,general_inquiry
+How do I create an account?,general_inquiry
+Is the camera waterproof?,product_inquiry
+I want to return this tablet,returns_refunds
+The screen is black on my monitor,technical_support
+What's included with the laptop?,product_inquiry
+I haven't received my order,order_status
+What are the shipping costs?,shipping_delivery
+My keyboard won't charge,technical_support
+How long until delivery?,order_status
+Is my speaker on the way?,order_status
+My mouse won't turn on,technical_support
+My smartwatch won't connect,technical_support
+What's your return policy?,returns_refunds
+Can I get your newsletter?,general_inquiry
+How long does shipping take?,shipping_delivery
+How do I create an account?,general_inquiry
+How do I start a return?,returns_refunds
+My monitor won't charge,technical_support
+Where is my order?,order_status
+Can I get your newsletter?,general_inquiry
+When will my laptop arrive?,order_status
+Is the camera waterproof?,product_inquiry
+Can I pick up in store?,shipping_delivery
+I don't recognize this charge,account_billing
+Can I get an invoice?,account_billing
+The NFC isn't working,technical_support
+Can I get an invoice?,account_billing
+My camera won't turn on,technical_support
+Can I update my payment method?,account_billing
+How long until delivery?,order_status
+Is my monitor on the way?,order_status
+I was charged twice,account_billing
+Where is my order?,order_status
+What's the fastest shipping?,shipping_delivery
+Can I get an invoice?,account_billing
+I'm getting an error on my keyboard,technical_support
+How do I create an account?,general_inquiry
+How do I cancel my subscription?,account_billing
+What's the price of the monitor?,product_inquiry
+I need a receipt,account_billing
+When was my package sent?,order_status
+What's your return policy?,returns_refunds
+Tell me about the speaker features,product_inquiry
+Do you ship internationally?,shipping_delivery
+How do I update my credit card?,account_billing
+Tell me about the camera features,product_inquiry
+Do you have a mobile app?,general_inquiry
+Is there free shipping?,shipping_delivery
+What colors does the smartphone come in?,product_inquiry
